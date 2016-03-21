@@ -1,0 +1,149 @@
+﻿
+# This is the title of the story
+#StoryName#	Things I know
+
+# This is the layout of the story
+#Format#	side
+
+# This is the total number of story pages not including the title page
+#MaxPages#	11
+
+# This is the maximum number of lines on any page
+#MaxLines#	10
+
+# This is the maximum number of continuation lines
+#MaxCont# 5
+
+# This is the picture scaling %
+#ScaleSide# 40
+#ScaleTop#  60
+
+####################################
+
+
+#Following are the lines of text for each page
+
+<Identifier>		<-- Start of line -------------------- End of line -->
+
+##Title Page
+#Page0Line1#		Things I know
+#Page0Time1#		1.6
+
+#Page0Text2#		Writer: Ursula Nafula
+#Page0Text3#		Illustration: Michael Nakuwa
+#Page0Text4#		© African Storybook Initiative, 2014
+
+
+##Page 1
+#Page1Line1#    This is a manyatta.
+#Page1Time1#		2.0
+#Page1Line2#    It is my home.
+#Page1Time2#		2.2
+#Page1Line3#    My home is in Turkana County.
+#Page1Time3#		2.2
+
+##Page 2
+#Page2Line1#  This is a camel.
+#Page2Time1#		2.1
+#Page2Line2-0#  In Turkana County people
+#Page2Line2-1#  keep many different animals.
+#Page2Time2#		2.1
+#Page2Line3#  But the camel is very important. 
+#Page2Time3#		2.1
+
+##Page 3
+#Page3Line1#  These are my teachers.
+#Page3Time1#		2.3
+#Page3Line2#  I like going to school.
+#Page3Time2#		2.3
+#Page3Line3#  My school is called Lolupe Primary School.
+#Page3Time3#		2.3
+#Page3Line4#  I like my Art teacher very much.
+#Page3Time4#		2.3
+
+##Page 4
+#Page4Line1#  This is a ship.
+#Page4Time1#		1.6
+#Page4Line2#  Ships are big.
+#Page4Time2#		1.6
+#Page4Line3#  They are used to transport people and goods on water.
+#Page4Time3#		1.6
+#Page4Line4#  If I go to Mombasa, I can see a ship.
+#Page4Time4#		1.6
+
+##Page 5
+#Page5Line1#  This is a bed.
+#Page5Time1#		1.7
+#Page5Line2#  I like the bed that my father made for me. 
+#Page5Time2#		1.7
+#Page5Line3#  I share it with my younger brother.
+#Page5Time3#		1.7
+#Page5Line4#  It is comfortable.
+#Page5Time4#		1.7
+
+##Page 6
+#Page6Line1#  This is a cock.
+#Page6Time1#		2.0
+#Page6Line2#  At home, we have two cocks.
+#Page6Time2#		2.0
+#Page6Line3#  We also have many chickens.
+#Page6Time3#		2.0
+#Page6Line4#  The chickens lay many eggs.
+#Page6Time4#		2.0
+
+##Page 7
+#Page7Line1#  This is a mouse.
+#Page7Time1#		2.5
+#Page7Line2#  Mice are dangerous animals.
+#Page7Time2#		2.5
+#Page7Line3#  They eat food.
+#Page7Time3#		2.5
+#Page7Line4#  They also destroy clothes.
+#Page7Time4#		2.5
+#Page7Line5#  They can cause disease.
+#Page7Time5#		2.5
+
+##Page 8
+#Page8Line1#  This is a dog.
+#Page8Time1#		3.1
+#Page8Line2#  Dogs are domestic animals.
+#Page8Time2#		3.1
+#Page8Line3#  Our dog is called Daa.
+#Page8Time3#		3.1
+#Page8Line4#  He barks a lot.
+#Page8Time4#		3.1
+
+##Page 9
+#Page9Line1#  This is an umbrella.
+#Page9Time1#		2.3
+#Page9Line2#  My parents have a big umbrella.
+#Page9Time2#		2.3
+#Page9Line3#  It has red, blue, orange and green colours.
+#Page9Time3#		2.3
+#Page9Line4-0#  When it rains, we use an umbrella
+#Page9Line4-1#  so we do not get wet.
+#Page9Time4#		2.3
+
+##Page 10
+#Page10Line1#  I am in class two and I know many things.
+#Page10Time1#		1.6
+#Page10Line2#  I want to know many more.
+#Page10Time2#		1.6
+#Page10Line3-0#  What I do not know, I ask
+#Page10Line3-1#  my parents or my teacher.
+#Page10Time3#		1.6
+
+##Page 11
+#Page11Pic#			african-storybook
+#Page11Text1#		Things I know
+#Page11Text2#		Writer: Ursula Nafula
+#Page11Text3#		Illustration: Michael Nakuwa
+#Page11Text4#		© African Storybook Initiative, 2014
+#Page11Text5# 	This work is licensed under a Creative Commons Attribution
+#Page11Text6# 	(CC-BY) Version 3.0 Unported Licence
+#Page11Text7# 	Disclaimer: You are free to download, copy, translate 
+#Page11Text8# 	or adapt this story and use the illustrations as long as you  
+#Page11Text9# 	attribute or credit the original author/s and illustrator/s.
+
+
+

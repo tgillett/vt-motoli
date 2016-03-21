@@ -1,0 +1,67 @@
+
+# This is the title of the story
+#StoryName#	Khmer Story 25
+
+# This is the layout of the story
+#Format#	under
+
+# This is the total number of story pages not including the title page
+#MaxPages#	6
+
+# This is the maximum number of lines on any page
+#MaxLines#	10
+
+# This is the maximum number of continuation
+#MaxCont#	5
+
+# This is the picture scaling %
+#ScaleSide# 40
+#ScaleTop#  60
+
+# This is the pause timing
+#Pause# 300
+
+
+####################################
+#Following are the lines of text for each page
+
+#Page0Line1#	Khmer title
+#Page0Time1#	1.4
+#Page0Line2#	Khmer Story 25
+#Page0Time2#	0
+
+#Page1Line1-0#	line 1a
+#Page1Line1-1#	line 1b
+#Page1Line1-2#	line 1c
+#Page1Time1#	12.3
+
+#Page2Line1-0#	line 1a
+#Page2Line1-1#	line 1b
+#Page2Line1-2#	line 1c
+#Page2Time1#	18.7
+
+#Page3Line1-0#	line 1a
+#Page3Line1-1#	line 1b
+#Page3Line1-2#	line 1c
+#Page3Line1-3#	line 1d
+#Page3Time1#	19.1
+
+#Page4Line1-0#	line 1a
+#Page4Line1-1#	line 1b
+#Page4Line1-2#	line 1c
+#Page4Time1#	17.0
+
+#Page5Line1-0#	line 1a
+#Page5Line1-1#	line 1b
+#Page5Line1-2#	line 1c
+#Page5Time1#	12.1
+
+# Credit page
+#Page6Pic# 		motoli-credits
+#Page6Text1-0#	Khmer Story 25
+#Page6Text1-1#	© MoToLi ET4D
+#Page6Text2-0#	Software AJR, NJA, TLG
+#Page6Text2-1#  This work is licensed under a Creative Commons Attribution
+#Page6Text2-2#  (CC-BY 4.0) Version 4.0 International Licence
+
+

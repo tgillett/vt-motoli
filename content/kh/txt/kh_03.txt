@@ -1,0 +1,60 @@
+
+# This is the title of the story
+#StoryName#	Khmer Story 3
+
+# This is the layout of the story
+#Format#	under
+
+# This is the total number of story pages not including the title page
+#MaxPages#	7
+
+# This is the maximum number of lines on any page
+#MaxLines#	10
+
+# This is the maximum number of continuation
+#MaxCont#	5
+
+# This is the picture scaling %
+#ScaleSide# 40
+#ScaleTop#  60
+
+# This is the pause timing
+#Pause# 300
+
+
+####################################
+#Following are the lines of text for each page
+
+#Page0Line1#	តោតឿ
+#Page0Time1#	1.0
+#Page0Line2#	Dwarf Lion
+#Page0Time2#	0
+
+#Page1Line1#	តោតឿ
+#Page1Time1#	1.0
+
+#Page2Line1#	តោ តឿ ចេះ ហេាះ។
+#Page2Time1#	1.5
+
+#Page3Line1#	តោ តឿ ឹហេាះ ហេីរ លេី កេាះ។
+#Page3Time1#	2.2
+
+#Page4Line1#	តោ តឿ ចុះ ដី រក អាហារ ក្នុង ចំការ ដំណាំ។
+#Page4Time1#	4.3
+
+#Page5Line1-0#	តោ តឿ ខំ បេះ ដំណាំ ែដល ដាំ 
+#Page5Line1-1#	ដុះ កុះករ ដាក់ ក្នុង កាផា។
+#Page5Time1#	5.5
+
+#Page6Line1#	តោ តឿ ដេីរ តេះតះ ប៉ះ ដំុ ដី ដួល ដាំ ដូង។
+#Page6Time1#	4.8
+
+# Credit page
+#Page7Pic# 		motoli-credits
+#Page7Text1-0#	Khmer Story 3
+#Page7Text1-1#	© MoToLi ET4D
+#Page7Text2-0#	Software: AJR, NJA, TLG. Khmer editing: Rotana Seang
+#Page7Text2-1#  This work is licensed under a Creative Commons Attribution
+#Page7Text2-2#  (CC-BY 4.0) Version 4.0 International Licence
+
+

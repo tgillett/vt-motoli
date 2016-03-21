@@ -1,0 +1,60 @@
+
+# This is the title of the story
+#StoryName#	Khmer Story 21
+
+# This is the layout of the story
+#Format#	under
+
+# This is the total number of story pages not including the title page
+#MaxPages#	5
+
+# This is the maximum number of lines on any page
+#MaxLines#	10
+
+# This is the maximum number of continuation
+#MaxCont#	5
+
+# This is the picture scaling %
+#ScaleSide# 40
+#ScaleTop#  60
+
+# This is the pause timing
+#Pause# 300
+
+
+####################################
+#Following are the lines of text for each page
+
+#Page0Line1#	Khmer title
+#Page0Time1#	1.4
+#Page0Line2#	Khmer Story 21
+#Page0Time2#	0
+
+#Page1Line1-0#	line 1a
+#Page1Line1-1#	line 1b
+#Page1Line1-2#	line 1c
+#Page1Time1#	17.5
+
+#Page2Line1-0#	line 1a
+#Page2Line1-1#	line 1b
+#Page2Line1-2#	line 1c
+#Page2Time1#	17.5
+
+#Page3Line1-0#	line 1a
+#Page3Line1-1#	line 1b
+#Page3Line1-2#	line 1c
+#Page3Time1#	15.2
+
+#Page4Line1-0#	line 1a
+#Page4Line1-1#	line 1b
+#Page4Time1#	10.9
+
+# Credit page
+#Page5Pic# 		motoli-credits
+#Page5Text1-0#	Khmer Story 21
+#Page5Text1-1#	© MoToLi ET4D
+#Page5Text2-0#	Software AJR, NJA, TLG
+#Page5Text2-1#  This work is licensed under a Creative Commons Attribution
+#Page5Text2-2#  (CC-BY 4.0) Version 4.0 International Licence
+
+

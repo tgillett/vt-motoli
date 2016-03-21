@@ -1,0 +1,58 @@
+
+# This is the title of the story
+#StoryName#	Trish the Fish
+
+# This is the layout of the story
+#Format#	under
+
+# This is the total number of story pages not including the title page
+#MaxPages#	6
+
+# This is the maximum number of lines on any page
+#MaxLines#	4
+
+# This is the maximum number of continuation
+#MaxCont#	3
+
+# This is the picture scaling %
+#ScaleSide# 40
+#ScaleTop#  60
+
+# This is the pause timing
+#Pause# 300
+#Backcolour# white
+#Debug# off
+
+######################################
+#Following are the lines of text for each page
+
+<Identifier>		<-- Start of line -------------------------- End of line -->
+
+#Page0Line1#		Trish the Fish
+#Page0Time1#		1.2
+
+#Page1Line1-0#	This is Trish the Fish.||
+#Page1Line1-1#	She is the fastest fish on the beach.||
+#Page1Line1-2#	When Trish plays tag,| she is hard to catch.
+#Page1Time1#		8.8
+
+#Page1Line2#		She is the fastest fish on the beach.
+#Page1Time2#		3.1
+
+#Page2Line1#		When Trish plays tag,| she is hard to catch.
+#Page2Time1#		2.7
+
+#Page3Line1#		When given a task,| she finishes first.
+#Page3Time1#		2.5
+
+#Page4Line1#		Trish swims both up,| and down.
+#Page4Time1#		2.9
+
+#Page5Line1#		Trish swims both left,| and right.
+#Page5Time1#		2.5
+
+#Page6Line1#		And if Trish gets scared,| she will dash out of sight.
+#Page6Time1#		3.5
+
+
+

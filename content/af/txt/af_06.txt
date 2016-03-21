@@ -1,0 +1,158 @@
+﻿
+# This is the title of the story
+#StoryName#	Hyena and Raven
+
+# This is the layout of the story
+#Format#	side
+
+# This is the total number of story pages not including the title page
+#MaxPages#	12
+
+# This is the maximum number of lines on any page
+#MaxLines#	10
+
+# This is the maximum number of continuation lines
+#MaxCont# 5
+
+# This is the picture scaling %
+#ScaleSide# 40
+#ScaleTop#  60
+
+####################################
+
+
+#Following are the lines of text for each page
+
+<Identifier>		<-- Start of line -------------------- End of line -->
+
+##Title Page
+#Page0Line1#		Hyena and Raven
+#Page0Time1#		1.6
+
+#Page0Text2#		Writer: Ann Nduku
+#Page0Text3#		Illustration: Wiehan de Jager
+#Page0Text4#		© African Storybook Initiative, 2014
+
+
+##Page 1
+#Page1Line1-0#    Hyena and Raven were once great friends,
+#Page1Line1-1#    even though they were quite different in some ways.
+#Page1Time1#		2.2
+#Page1Line2#    Raven could fly but Hyena was only able to walk.
+#Page1Time2#		2.2
+
+##Page 2
+#Page2Line1-0#  One day Hyena, curious to know something about his friend, asked Raven, 
+#Page2Line1-1#  "What is this white thing which is always below your neck?" 
+#Page2Time1#		2.1
+
+##Page 3
+#Page3Line1-0#  Raven answered, "It is the fatty meat which I usually eat in the sky.
+#Page3Line1-1#  I have been eating it for so long now it is stuck on my neck."
+#Page3Time1#		3.0
+#Page3Line2-0#  On hearing about meat, saliva started pouring out of Hyena's
+#Page3Line2-1#  mouth for he was greedy and he loved meat very much.
+#Page3Time2#		3.0
+#Page3Line3-0#  Hyena really wanted to eat that meat. But how could he
+#Page3Line3-1#  reach the meat in the sky if he had no wings to fly?
+#Page3Time3#		3.0
+#Page3Line4-0#  "Please my friend," he asked Raven, "lend me some feathers so that I
+#Page3Line4-1#  can make myself some wings. I really want to be able to fly like you."
+#Page3Time4#		3.0
+
+##Page 4
+#Page4Line1#  Raven was not mean, so he gave him some feathers.
+#Page4Time1#		3.0
+#Page4Line2#  Hyena sewed them together into wings.
+#Page4Time2#		2.5
+#Page4Line3-0#  He fastened them to his body, and
+#Page4Line3-1#  tried to take off into the sky.
+#Page4Time3#		2.5
+#Page4Line4#  But he was far too heavy for the few feathers to carry him.
+#Page4Time4#		2.5
+#Page4Line5#  So he had to think of another plan.
+#Page4Time5#		2.0
+
+##Page 5
+#Page5Line1-0#  "Please my friend," he asked Raven, "could I hold
+#Page5Line1-1#  onto your tail as you fly up into the sky?"
+#Page5Time1#		3.0
+#Page5Line2-0#  "All right," said Raven. "I know how much you
+#Page5Line2-1#  want to fly. Let's do it tomorrow morning."
+#Page5Time2#		3.0
+#Page5Line3-0#  When day came, Hyena took hold of Raven's tail
+#Page5Line3-1#  and Raven flew up into the sky.
+#Page5Time3#		3.0
+
+##Page 6
+#Page6Line1-0#  Raven flew and flew and flew until he was exhausted.
+#Page6Line1-1#  But Hyena said, "Just a little further, my friend!"
+#Page6Time1#		3.0
+#Page6Line2-0#  He could see the white and fatty meat just above them,
+#Page6Line2-1#  and his mouth was watering.
+#Page6Time2#		3.0
+
+##Page 7
+#Page7Line1-0#  When they reached the first piece of fatty meat, Hyena felt a jerk. 
+#Page7Line1-1#  One of Raven's tail feathers came off in his hand!
+#Page7Time1#		3.0
+#Page7Line2-0#  Then there was another jerk, and another.
+#Page7Line2-1#  Raven felt much lighter, and the ache in his tail was going. 
+#Page7Time2#		3.0
+#Page7Line3-0#  He sang: Raven's feathers, unpluck yourselves.
+#Page7Line3-1#  Raven's feathers, unpluck yourselves. 
+#Page7Time3#		3.0
+#Page7Line4#  In response, Hyena sang the opposite:
+#Page7Time4#		3.0
+#Page7Line5-0#  Raven's feathers hold on, don't unpluck yourselves.
+#Page7Line5-1#  Raven's feathers hold on, don't unpluck yourselves. 
+#Page7Time5#		3.0
+
+##Page 8
+#Page8Line1-0#  Finally, the feathers could not hold Hyena anymore.
+#Page8Line1-1#  He was in the middle of nowhere in the sky.
+#Page8Time1#		3.1
+#Page8Line2-0#  He jumped onto the fatty meat thinking that as he ate,
+#Page8Line2-1#  the fatty meat would hold him.
+#Page8Time2#		3.1
+#Page8Line3-0#  But as he tried to hold and eat the 'meat',
+#Page8Line3-1#  all he felt was moist cloud!
+#Page8Time3#		3.1
+
+##Page 9
+#Page9Line1#  By now he was falling fast. "Help, help!" he shouted.
+#Page9Time1#		2.3
+#Page9Line2#  But no one could hear him. Raven was lost in the clouds.
+#Page9Time2#		2.3
+
+##Page 10
+#Page10Line1-0#  Hyena fell on the ground with a crash
+#Page10Line1-1#  and lay silent for some minutes.
+#Page10Time1#		3.0
+#Page10Line2-0#  He woke up howling in pain, with a broken leg
+#Page10Line2-1#  and dark scars all over his body.
+#Page10Time2#		3.0
+
+#Page 11
+#Page11Line1-0#   From that day to now, Hyena limps and
+#Page11Line1-1#   he has many scars on his body.
+#Page11Time1#		3.0
+#Page11Line2#   He has never been able to fly.
+#Page11Time2#		2.0
+#Page11Line3#   And he and Raven are no longer friends.
+#Page11Time3#		2.0
+
+##Page 12
+#Page12Pic#			african-storybook
+#Page12Text1#		Hyena and Raven
+#Page12Text2#		Writer: Ann Nduku
+#Page12Text3#		Illustration: Wiehan de Jager
+#Page12Text4#		© African Storybook Initiative, 2014
+#Page12Text5# 	This work is licensed under a Creative Commons Attribution
+#Page12Text6# 	(CC-BY) Version 3.0 Unported Licence
+#Page12Text7# 	Disclaimer: You are free to download, copy, translate 
+#Page12Text8# 	or adapt this story and use the illustrations as long as you  
+#Page12Text9# 	attribute or credit the original author/s and illustrator/s.
+
+
+

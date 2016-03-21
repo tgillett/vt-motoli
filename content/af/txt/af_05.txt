@@ -1,0 +1,99 @@
+﻿
+# This is the title of the story
+#StoryName#	Chicken and Millipede
+
+# This is the layout of the story
+#Format#	side
+
+# This is the total number of story pages not including the title page
+#MaxPages#	13
+
+# This is the maximum number of lines on any page
+#MaxLines#	10
+
+# This is the maximum number of continuation lines
+#MaxCont# 5
+
+# This is the picture scaling %
+#ScaleSide# 40
+#ScaleTop#  60
+
+####################################
+
+
+#Following are the lines of text for each page
+
+<Identifier>		<-- Start of line -------------------- End of line -->
+
+##Title Page
+#Page0Line1#		Chicken and Millipede
+#Page0Time1#		1.6
+
+#Page0Text2#		Writer: Winny Asara
+#Page0Text3#		Illustration: Winny Asara
+#Page0Text4#		© African Storybook Initiative, 2014
+
+
+##Page 1
+#Page1Line1#    Chicken and Millipede were friends.
+#Page1Time1#		2.2
+
+##Page 2
+#Page2Line1#  They decided to play football. 
+#Page2Time1#		2.2
+
+##Page 3
+#Page3Line1#  They took turns to defend the goal.
+#Page3Time1#		2.4
+
+##Page 4
+#Page4Line1#  Millipede won the game.
+#Page4Time1#		1.8
+
+##Page 5
+#Page5Line1#  Chicken was very mad. 
+#Page5Time1#		1.8
+
+##Page 6
+#Page6Line1#  Chicken swallowed Millipede.
+#Page6Time1#		2.1
+
+##Page 7
+#Page7Line1#  Mother Millipede searched for Millipede. 
+#Page7Time1#		2.9
+
+##Page 8
+#Page8Line1#  Mother Millipede heard her son in Chicken.
+#Page8Time1#		3.2
+
+##Page 9
+#Page9Line1#  Chicken began to feel ill.
+#Page9Time1#		2.3
+
+##Page 10
+#Page10Line1#  Chicken started to cough.
+#Page10Time1#		1.7
+
+#Page 11
+#Page11Line1#   Millipede fell out.
+#Page11Time1#		1.7
+
+##Page 12
+#Page12Line1# Chicken and Millipede were not friends anymore.
+#Page12Time1#		3.1
+
+##Page 13
+#Page13Pic#			african-storybook
+#Page13Text1#		Chicken and Millipede
+#Page13Text2#		Writer: Winny Asara
+#Page13Text3#		Illustration: Winny Asara
+#Page13Text4#		Adapted By: Dedre Grobler
+#Page13Text5#		© African Storybook Initiative, 2014
+#Page13Text6# 	This work is licensed under a Creative Commons Attribution
+#Page13Text7# 	(CC-BY) Version 3.0 Unported Licence
+#Page13Text8# 	Disclaimer: You are free to download, copy, translate 
+#Page13Text9# 	or adapt this story and use the illustrations as long as you  
+#Page13Text10# 	attribute or credit the original author/s and illustrator/s.
+
+
+

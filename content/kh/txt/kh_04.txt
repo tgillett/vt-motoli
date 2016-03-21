@@ -1,0 +1,62 @@
+
+# This is the title of the story
+#StoryName#	Khmer Story 4
+
+# This is the layout of the story
+#Format#	under
+
+# This is the total number of story pages not including the title page
+#MaxPages#	8
+
+# This is the maximum number of lines on any page
+#MaxLines#	10
+
+# This is the maximum number of continuation
+#MaxCont#	5
+
+# This is the picture scaling %
+#ScaleSide# 40
+#ScaleTop#  60
+
+# This is the pause timing
+#Pause# 300
+
+
+####################################
+#Following are the lines of text for each page
+
+#Page0Line1#	គោញី និង ទទា
+#Page0Time1#	1.4
+#Page0Line2#	Femel Cow and Partridge
+#Page0Time2#	0
+
+#Page1Line1#	គោ ញី ឈរ នៅ កៀន ដេីម គគីរ។
+#Page1Time1#	2.3
+
+#Page2Line1#	គោ ញី មាន មិត្ត ជា ទទា។	
+#Page2Time1#	2.2
+
+#Page3Line1#	ទទា ទំុ លេី ឈេី ធំ រងា។
+#Page3Time1#	2.7
+
+#Page4Line1#	គោ ញី អាណិត អត់ ទីលំនៅ។
+#Page4Time1#	2.7
+
+#Page5Line1#	ទទា ឈឺ ហេាះ ហេីរ ងីងេី ទៅ ទីឺៃទ។
+#Page5Time1#	4.0
+
+#Page6Line1#	គោ ញី ពះុពារ  ហៅ ទទា| មក ជិត ពេាះ អស់ រងា។
+#Page6Time1#	4.3
+
+#Page7Line1#	ទទា សាទរ សសេី អគុណ។
+#Page7Time1#	2.6
+
+# Credit page
+#Page8Pic# 		motoli-credits
+#Page8Text1-0#	Khmer Story 4
+#Page8Text1-1#	© MoToLi ET4D
+#Page8Text2-0#	Software: AJR, NJA, TLG. Khmer editing: Rotana Seang
+#Page8Text2-1#  This work is licensed under a Creative Commons Attribution
+#Page8Text2-2#  (CC-BY 4.0) Version 4.0 International Licence
+
+

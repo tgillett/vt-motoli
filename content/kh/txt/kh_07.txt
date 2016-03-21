@@ -1,0 +1,60 @@
+
+# This is the title of the story
+#StoryName#	Khmer Story 7
+
+# This is the layout of the story
+#Format#	under
+
+# This is the total number of story pages not including the title page
+#MaxPages#	6
+
+# This is the maximum number of lines on any page
+#MaxLines#	10
+
+# This is the maximum number of continuation
+#MaxCont#	5
+
+# This is the picture scaling %
+#ScaleSide# 40
+#ScaleTop#  60
+
+# This is the pause timing
+#Pause# 300
+
+
+####################################
+#Following are the lines of text for each page
+
+#Page0Line1#	កាក់ឧស្សាហ័
+#Page0Time1#	1.2
+#Page0Line2#	Hard Work Coin
+#Page0Time2#	0
+
+#Page1Line1-0#	កាក់ កាន់ ធុង តា ដូង កាន់ ជាល 
+#Page1Line1-1#	ហួច េដញ កុក | តាម ផ្លូវ ទៅ ស្រែ។ 
+#Page1Time1#	8.4
+
+#Page2Line1-0#	កាក់ បាច ទឹក បាត បឹង បោស ចក ណែន 
+#Page2Line1-1#	ណាន់ នឿយ ណាយ ណាស់។
+#Page2Time1#	6.6
+
+#Page3Line1-0#	តា ថា៖ កាក់ អេីយ! បាច ទឺក សិន 
+#Page3Line1-1#	ចាំ ហូប បាយ ជាមួយ សាច់ បបែល។
+#Page3Time1#	9.4
+
+#Page4Line1-0#	កាក់ ដួស បាយ ដាក់ ក្នុង ចាន ជាម និង 
+#Page4Line1-1#	ដាក់ សាច់ បបែល ក្នុង ចាន គោម។
+#Page4Time1#	7.6
+
+#Page5Line1-0#	ហូប ហេីយ កាក់ កាន់ កាំបិត កាត់
+#Page5Line1-1#	សាវមា៉វ ជូន តា ហូប លាង មាត់ ដោយ រីករាយ។
+#Page5Time1#	9.2
+
+# Credit page
+#Page6Pic# 		motoli-credits
+#Page6Text1-0#	Khmer Story 7
+#Page6Text1-1#	© MoToLi ET4D
+#Page6Text2-0#	Software AJR, NJA, TLG
+#Page6Text2-1#  This work is licensed under a Creative Commons Attribution
+#Page6Text2-2#  (CC-BY 4.0) Version 4.0 International Licence
+

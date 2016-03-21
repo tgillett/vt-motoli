@@ -1,0 +1,58 @@
+
+# This is the title of the story
+#StoryName#	Meatball Paul
+
+# This is the layout of the story
+#Format#	under
+
+# This is the total number of story pages not including the title page
+#MaxPages#	6
+
+# This is the maximum number of lines on any page
+#MaxLines#	2
+
+# This is the maximum number of continuation
+#MaxCont#	5
+
+# This is the picture scaling %
+#ScaleSide# 40
+#ScaleTop#  60
+
+# This is the pause timing
+#Pause# 300
+
+
+####################################
+#Following are the lines of text for each page
+
+#Page0Line1#	Meatball Paul
+#Page0Time1#	1.2
+
+#Page1Line1#	Paul was never dirty at all.
+#Page1Time1#	2.4
+#Page1Line2#	He was a very neat cat.
+#Page1Time2#	2.1
+
+#Page2Line1#	Paul loved meatballs.
+#Page2Time1#	2.4
+
+#Page3Line1#	Paul was very fat.
+#Page3Time1#	2.0
+
+#Page4Line1#	All of a sudden,| Paul paused.
+#Page4Time1#	2.0
+#Page4Line2#	Paul saw sauce on his paw!
+#Page4Time2#	2.5
+
+#Page5Line1#	Paul was alarmed.
+#Page5Time1#	2.0
+#Page5Line2#	
+#Page5Time2#	
+
+#Page6Line1#	But he was calm.
+#Page6Time1#	2.0
+#Page6Line2#	Paul licked his paw raw.
+#Page6Time2#	2.4
+
+
+
