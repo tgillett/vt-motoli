@@ -27,8 +27,7 @@
 
 #Page0Line1#	គោញី និង ទទា
 #Page0Time1#	1.4
-#Page0Line2#	Femel Cow and Partridge
-#Page0Time2#	0
+#Page0Text1#	Cow and Partridge
 
 #Page1Line1#	គោ ញី ឈរ នៅ កៀន ដេីម គគីរ។
 #Page1Time1#	2.3

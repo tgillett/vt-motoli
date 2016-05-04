@@ -25,29 +25,28 @@
 ####################################
 #Following are the lines of text for each page
 
-#Page0Line1#	title
+#Page0Line1#	សត្វសម្តែង
 #Page0Time1#	1.3
-#Page0Line2#	english title
-#Page0Time2#	0
+#Page0Text1#	Khmer Story 11
 
-#Page1Line1-0#	line 1a
-#Page1Line1-1#	line 1b
-#Page1Line1-2#	line 1c
+#Page1Line1-0#	ក្អែក បូល ក្បេាះ ក្បាយ ក្បូរក្បាច់  
+#Page1Line1-1#	មិន ក្លែងក្លាយ ដល់ ក្មេងក្មាង ថា៖ ក្អុក 
+#Page1Line1-2#	ក្អាត់ កំពុង រស់ នៅ ក្នុង ក្អម ក្បែរ ដើម ក្ដាត  ។
 #Page1Time1#	16.7
 
-#Page2Line1#	line 1
+#Page2Line1#	ក្ងោក រាំ ចាក់ ក្បាច់ ក្និកក្នក់ គួរ ឲ្យ ជក់ ចិត្ត ។
 #Page2Time1#	6.1
 
-#Page3Line1#	line 1
+#Page3Line1#	ក្រសារ ក្ងាន ធ្វើ ក ក្ងិក្ងក់ ។ 
 #Page3Time1#	5.3
 
-#Page4Line1#	line 1
+#Page4Line1#	ក្តាម រាំ លើ ក្តារ ក្បែរ ទូក ក្តោង ។
 #Page4Time1#	4.6
 
-#Page5Line1#	line 1
+#Page5Line1#	ក្របី ក្តាន់ ងោក ក្បាល រាំ ក្រេាយ គេ ។
 #Page5Time1#	5.8
 
-#Page6Line1#	line 1
+#Page6Line1#	ក្អែប ជើង ច្រើន រាំ ក្រៅ ក្លឹប ក្នុង ក្តី ក្សេមក្សាន្ត ។
 #Page6Time1#	6.9
 
 # Credit page

@@ -25,28 +25,27 @@
 ####################################
 #Following are the lines of text for each page
 
-#Page0Line1#	title
+#Page0Line1#	សត្វរាំ យាយរាំ
 #Page0Time1#	2.6
-#Page0Line2#	Khmer Story 8
-#Page0Time2#	0
+#Page0Text1#	Khmer Story 8
 
-#Page1Line1-0#	line 1a
-#Page1Line1-1#	line 1b
-#Page1Line1-2#	line 1c
+#Page1Line1-0#	លលក ពីងពាង សំពោច មាន់ មៀម រុយ
+#Page1Line1-1#	ទីទុយ ពស់ រស់ នៅ ក្នុង ព្រៃ ជិត វាល ភក់
+#Page1Line1-2#	ជាមួយ អំពិលអំពែក។
 #Page1Time1#	19.1
 
-#Page2Line1#	line 1
+#Page2Line1#	ទោច គូស ឈេីគូស អុច ទៀន ដេញ មេីល សំពោច វាយ គង ពិរេាះ។
 #Page2Time1#	7.2
 
-#Page3Line1-0#	line 1a
-#Page3Line1-1#	line 1b
+#Page3Line1-0#	ពស់ ពត់ ពេន រេរាំ រុញ មេមាន់ ជាន់
+#Page3Line1-1#	ពីងពាង ប៉ះ អំពិលអំែពក។
 #Page3Time1#	9.8
 
-#Page4Line1-0#	line 1a
-#Page4Line1-1#	line 1b
+#Page4Line1-0#	លលក ញញឹម ស្រែក បូល រៀបរាប់ កុកគ្រូ!
+#Page4Line1-1#	កុកគ្រូ! ទីទុយ ស្រែក ច្រៀង សប្បាយមែនៗ
 #Page4Time1#	11.2
 
-#Page5Line1#	line 1
+#Page5Line1#	យាយ ភួង ឮ លោត រាំ លេីក សំពត់ ដូល អុក គូទ ប៉ះ  ពាង បែក ប្រាវ ។
 #Page5Time1#	7.7
 
 # Credit page

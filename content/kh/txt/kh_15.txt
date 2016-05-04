@@ -25,33 +25,32 @@
 ####################################
 #Following are the lines of text for each page
 
-#Page0Line1#	Khmer title
+#Page0Line1#	ច្រិបក្មេងល្អ
 #Page0Time1#	1.3
-#Page0Line2#	Khmer Story 15
-#Page0Time2#	0
+#Page0Text1#	Khmer Story 15
 
-#Page1Line1#	line 1
+#Page1Line1#	ច្រិប កូន ច្បង រាង ច្រឡឹង ច្រមុះ ស្រួច ។ 
 #Page1Time1#	5.6
 
-#Page2Line1#	line 1
+#Page2Line1#	នាង មិន ចេះ ច្រឡោងខាម ច្រឡើសបើស ។ 
 #Page2Time1#	3.7
 
-#Page3Line1-0#	line 1a
-#Page3Line1-1#	line 1b
+#Page3Line1-0#	ច្រិប ច្រៀង ក្នុង ច្បារ មើល ច្រឹង 
+#Page3Line1-1#	ច្នៃ ច្បូក ចាក់ ត្រី ច្រកែង ។
 #Page3Time1#	8.1
 
-#Page4Line1#	line 1
+#Page4Line1#	ច្រិប ចុលចិត្ត រៀន ច្បាប់ ចេះ ច្រេីន ក្រៃ ។
 #Page4Time1#	4.8
 
-#Page5Line1-0#	line 1a
-#Page5Line1-1#	line 1b
-#Page5Line1-2#	line 1c
+#Page5Line1-0#	ច្រឹង ច្រណែន ច្រិប វា ច្រាសច្រាល់ 
+#Page5Line1-1#	ច្រងេងច្រងាង ច្របល់ គំនិត ច្រឡំ 
+#Page5Line1-2#	ច្រត់ ច្បូក ដូល លើ ច្រវា ក្បែរ ច្រាំង ។
 #Page5Time1#	15.6
 
-#Page6Line1#	line 1
+#Page6Line1#	ច្រិប ជួយ ច្រាន ច្រវា ចេញ ។
 #Page6Time1#	3.0
 
-#Page7Line1#	line 1a
+#Page7Line1#	ច្រឹង អគុណ ច្រិប ក្មេង ល្អ ។ 
 #Page7Time1#	2.7
 
 # Credit page

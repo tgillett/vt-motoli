@@ -27,8 +27,7 @@
 
 #Page0Line1#	កៅស៊ូ​អ៊ុំអួត
 #Page0Time1#	1.1
-#Page0Line2#	Rubber Band and Soap
-#Page0Time2#	0
+#Page0Text1#	Rubber Band and Soap
 
 #Page1Line1#	សាប៊ូ​ សរសេីរ កៅស៊ូ​ ថា ហ៊ា ហុឺហា យារ យឺត អ៊ូអរ​ ជាង គេ។
 #Page1Time1#	5.7

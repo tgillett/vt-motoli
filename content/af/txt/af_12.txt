@@ -1,0 +1,159 @@
+# This is the title of the story
+#StoryName#	A Tiny Seed: The Story of Wangari Maathai
+# This is the layout of the story
+#Format#	side
+# This is the total number of story pages not including the title page
+#MaxPages#	13
+# This is the maximum number of lines on any page
+#MaxLines#	10
+# This is the maximum number of continuation lines
+#MaxCont# 10
+# This is the picture scaling %
+#ScaleSide# 40
+#ScaleTop#  60
+####################################
+#Following are the lines of text for each page
+<Identifier>		<-- Start of line -------------------- End of line -->
+##Title Page
+#Page0Line1#		A Tiny Seed: The Story of Wangari Maathai
+#Page0Time1#		1.6
+#Page0Text2#		Writer: Nicola Rijsdijk
+#Page0Text3#		Illustration: Maya Marshak and Onesmus Kakungi
+#Page0Text4#		© Nicola Rijsdijk, Maya Marshak, Tarryn-Anne Anderson, Bookdash.org and African Storybook Initiative, 2015
+ 
+##Page 1
+#Page1Line1-0#		In a village on the slopes of Mount Kenya in East
+#Page1Line1-1#		Africa, a little girl worked in the fields with her mother.
+#Page1Time1#		7.7
+#Page1Line2#		Her name was Wangari.
+#Page1Time2#		1.4
+ 
+##Page 2
+#Page2Line1#		Wangari loved being outside.
+#Page2Time1#		1.4
+#Page2Line2-0#		In her family's food garden she broke up the soil
+#Page2Line2-1#		with her machete.
+#Page2Time2#		4.55
+#Page2Line3#		She pressed tiny seeds into the warm earth.
+#Page2Time3#		2.8
+ 
+##Page 3
+#Page3Line1#		Her favourite time of day was just after sunset.
+#Page3Time1#		3.15
+#Page3Line2-0#		When it got too dark to see the plants, Wangari
+#Page3Line2-1#		knew it was time to go home.
+#Page3Time2#		5.95
+#Page3Line3-0#		She would follow the narrow paths through the
+#Page3Line3-1#		fields, crossing rivers as she went.
+#Page3Time3#		4.9
+ 
+##Page 4
+#Page4Line1-0#		Wangari was a clever child and couldn't wait to
+#Page4Line1-1#		go to school.
+#Page4Time1#		4.2
+#Page4Line2-0#		But her mother and father wanted her to stay and
+#Page4Line2-1#		help them at home.
+#Page4Time2#		4.9
+#Page4Line3-0#		When she was seven years old, her big brother
+#Page4Line3-1#		persuaded her parents to let her go to school.
+#Page4Time3#		6.3
+ 
+##Page 5
+#Page5Line1-0#		She liked to learn! Wangari learnt more and more
+#Page5Line1-1#		with every book she read.
+#Page5Time1#		4.9
+#Page5Line2-0#		She did so well at school that she was invited to
+#Page5Line2-1#		study in the United States of America.
+#Page5Time2#		6.3
+#Page5Line3-0#		Wangari was excited! She wanted to know more
+#Page5Line3-1#		about the world.
+#Page5Time3#		3.85
+ 
+##Page 6
+#Page6Line1-0#		At the American university Wangari learnt many
+#Page6Line1-1#		new things.
+#Page6Time1#		3.15
+#Page6Line2#		She studied plants and how they grow.
+#Page6Time2#		2.45
+#Page6Line3-0#		And she remembered how she grew: playing games
+#Page6Line3-1#		with her brothers in the shade of the trees in
+#Page6Line3-2#		the beautiful Kenyan forests.
+#Page6Time3#		7.7
+ 
+##Page 7
+#Page7Line1-0#		The more she learnt, the more she realised that
+#Page7Line1-1#		she loved the people of Kenya.
+#Page7Time1#		5.25
+#Page7Line2#		She wanted them to be happy and free.
+#Page7Time2#		2.8
+#Page7Line3-0#		The more she learnt, the more she remembered her
+#Page7Line3-1#		African home.
+#Page7Time3#		3.85
+ 
+##Page 8
+#Page8Line1-0#		When she had finished her studies, she returned
+#Page8Line1-1#		to Kenya.
+#Page8Time1#		3.5
+#Page8Line2#		But her country had changed.
+#Page8Time2#		1.75
+#Page8Line3#		Huge farms stretched across the land.
+#Page8Time3#		2.1
+#Page8Line4#		Women had no wood to make cooking fires.
+#Page8Time4#		2.8
+#Page8Line5#		The people were poor and the children were hungry.
+#Page8Time5#		3.15
+ 
+##Page 9
+#Page9Line1#		Wangari knew what to do.
+#Page9Time1#		1.75
+#Page9Line2-0#		She taught the women how to plant trees from
+#Page9Line2-1#		seeds.
+#Page9Time2#		3.5
+#Page9Line3-0#		The women sold the trees and used the money to
+#Page9Line3-1#		look after their families.
+#Page9Time3#		4.9
+#Page9Line4#		The women were very happy.
+#Page9Time4#		1.75
+#Page9Line5-0#		Wangari had helped them to feel powerful and
+#Page9Line5-1#		strong.
+#Page9Time5#		3.15
+ 
+##Page 10
+#Page10Line1-0#		As time passed, the new trees grew into forests,
+#Page10Line1-1#		and the rivers started flowing again.
+#Page10Time1#		5.25
+#Page10Line2#		Wangari's message spread across Africa.
+#Page10Time2#		1.75
+#Page10Line3-0#		Today, millions of trees have grown from
+#Page10Line3-1#		Wangari's seeds.
+#Page10Time3#		3.15
+ 
+##Page 11
+#Page11Line1#		Wangari had worked hard.
+#Page11Time1#		1.4
+#Page11Line2-0#		People all over the world took notice, and gave
+#Page11Line2-1#		her a famous prize.
+#Page11Time2#		4.55
+#Page11Line3-0#		It is called the Nobel Peace Prize, and she was
+#Page11Line3-1#		the first African woman ever to receive it.
+#Page11Time3#		6.3
+ 
+##Page 12
+#Page12Line1-0#		Wangari died in 2011, but we can think of her
+#Page12Line1-1#		every time we see a beautiful tree.
+#Page12Time1#		5.95
+ 
+##Page 13
+#Page13Pic#			african-storybook
+#Page13Text1-0#		A Tiny Seed: The Story of Wangari Maathai.
+#Page13Text1-1#		Writer: Nicola Rijsdijk.
+#Page13Text1-2#		Illustration: Maya Marshak and Onesmus Kakungi.
+#Page13Text1-3#		© Nicola Rijsdijk, Maya Marshak, Tarryn-Anne Anderson, Bookdash.org and African Storybook Initiative, 2015.
+#Page13Text1-4#		Audio: 
+#Page13Text1-5#		VT Software: AJR, NJA, TLG
+#Page13Text2-0# 	This work is licensed under a Creative Commons Attribution
+#Page13Text2-1# 	(CC-BY 4.0) Version 4.0 Unported Licence
+#Page13Text2-2# 	Disclaimer: You are free to download, copy, translate 
+#Page13Text2-3# 	or adapt this story and use the illustrations as long as you  
+#Page13Text2-4# 	attribute or credit the original creators.
+

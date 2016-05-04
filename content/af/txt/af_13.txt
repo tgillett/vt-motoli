@@ -1,0 +1,289 @@
+# This is the title of the story
+#StoryName#	Dima and Owl
+# This is the layout of the story
+#Format#	side
+# This is the total number of story pages not including the title page
+#MaxPages#	19
+# This is the maximum number of lines on any page
+#MaxLines#	21
+# This is the maximum number of continuation lines
+#MaxCont# 5
+# This is the picture scaling %
+#ScaleSide# 40
+#ScaleTop#  60
+####################################
+#Following are the lines of text for each page
+<Identifier>		<-- Start of line -------------------- End of line -->
+##Title Page
+#Page0Line1#		Dima and Owl
+#Page0Time1#		1.6
+#Page0Text2#		Writer: Traditional San story
+#Page0Text3#		Illustration: Manyeka Arts Trust
+#Page0Text4#		© Manyeka Arts Trust, 2014
+ 
+##Page 1
+#Page1Line1-0#		In the old days there were two people, Dima and
+#Page1Line1-1#		Owl.
+#Page1Time1#		3.85
+#Page1Line2#		Owl owned the sun, water and fire.
+#Page1Time2#		2.45
+#Page1Line3-0#		Dima did not have any of these things and lived
+#Page1Line3-1#		in darkness with his family.
+#Page1Time3#		5.25
+ 
+##Page 2
+#Page2Line1-0#		Dima tried to make a garden, but he could not
+#Page2Line1-1#		grow vegetables because there was no sun.
+#Page2Time1#		5.95
+#Page2Line2#		Everybody suffered because there was no sun.
+#Page2Time2#		2.45
+#Page2Line3-0#		When they hunted animals to eat, they hung the
+#Page2Line3-1#		meat in the trees to dry, but it rotted because
+#Page2Line3-2#		there was no sun.
+#Page2Time3#		8.05
+ 
+##Page 3
+#Page3Line1#		One day, Dima decided to visit Owl.
+#Page3Time1#		2.45
+#Page3Line2-0#		When they served food, Dima wondered why Owl's
+#Page3Line2-1#		food tasted so good.
+#Page3Time2#		4.2
+#Page3Line3-0#		He wondered if it was because the food grew in
+#Page3Line3-1#		the sun and it was cooked in fire.
+#Page3Time3#		6.3
+#Page3Line4#		Secretly, Dima made a plan.
+#Page3Time4#		1.75
+#Page3Line5#		He decided to dance.
+#Page3Time5#		1.4
+#Page3Line6-0#		He wanted everyone at Owl's place to gather
+#Page3Line6-1#		around him and see him dance.
+#Page3Time6#		4.9
+#Page3Line7#		He was a good dancer.
+#Page3Time7#		1.75
+#Page3Line8#		Owl and his family admired the beautiful dancing.
+#Page3Time8#		2.8
+ 
+##Page 4
+#Page4Line1-0#		When it grew dark, Owl decided to fetch the sun
+#Page4Line1-1#		from his house so that he could still watch Dima's dancing.
+#Page4Time1#		7.35
+#Page4Line2-0#		Owl kept the sun in an animal skin bag inside his
+#Page4Line2-1#		hut.
+#Page4Time2#		4.2
+#Page4Line3-0#		He carried the sun out from his house and held it
+#Page4Line3-1#		high up above his shoulders.
+#Page4Time3#		5.6
+#Page4Line4#		Now it was light.
+#Page4Time4#		1.4
+#Page4Line5#		Everyone could see far into the distance.
+#Page4Time5#		2.45
+#Page4Line6#		Soon everyone was dancing in the light of the sun.
+#Page4Time6#		3.5
+ 
+##Page 5
+#Page5Line1#		Dima crept closer to the sun while he was dancing.
+#Page5Time1#		3.5
+#Page5Line2-0#		Owl held on to the sun but after a while he
+#Page5Line2-1#		forgot about it because he enjoyed the dancing so much.
+#Page5Time2#		7.35
+#Page5Line3#		He saw how beautifully Dima danced.
+#Page5Time3#		2.1
+#Page5Line4#		He too wanted to dance like this.
+#Page5Time4#		2.45
+ 
+##Page 6
+#Page6Line1-0#		Suddenly, Dima took his fighting stick and hit
+#Page6Line1-1#		the sun into the air like a ball.
+#Page6Time1#		5.6
+#Page6Line2-0#		The sun travelled so far that it remained forever
+#Page6Line2-1#		in the sky.
+#Page6Time2#		4.2
+#Page6Line3#		It gave everyone light all day.
+#Page6Time3#		2.1
+ 
+##Page 7
+#Page7Line1#		Dima ran away so fast that Owl could not find him.
+#Page7Time1#		3.85
+#Page7Line2#		He stayed far away for a long time.
+#Page7Time2#		2.8
+#Page7Line3-0#		After a while, he disguised himself and went back
+#Page7Line3-1#		to Owl's place.
+#Page7Time3#		4.2
+#Page7Line4-0#		The children recognised him and said: "There is
+#Page7Line4-1#		the man who stole our sun!".
+#Page7Time4#		4.9
+#Page7Line5-0#		The adults did not agree with the children and
+#Page7Line5-1#		said, "No, this is not the man who stole our sun.
+#Page7Time5#		7.0
+ 
+##Page 8
+#Page8Line1#		They saw that this man was an old dancer.
+#Page8Time1#		3.15
+#Page8Line2#		He wore a lot of beads around his body.
+#Page8Time2#		3.15
+#Page8Line3-0#		They were magic dancing beads and they made
+#Page8Line3-1#		people dance.
+#Page8Time3#		3.5
+#Page8Line4#		It was not long before everyone was dancing.
+#Page8Time4#		2.8
+#Page8Line5-0#		They danced the whole afternoon, until the sun
+#Page8Line5-1#		began to set.
+#Page8Time5#		3.85
+#Page8Line6#		It became too dark to see the magic dancer.
+#Page8Time6#		3.15
+ 
+##Page 9
+#Page9Line1-0#		Owl said to his wife, "Go and look in my bag and
+#Page9Line1-1#		fetch the moon."
+#Page9Time1#		5.25
+#Page9Line2-0#		Owl held the moon high above his shoulders and it
+#Page9Line2-1#		lit up the darkness for all to see the dance.
+#Page9Time2#		7.0
+#Page9Line3-0#		While they were dancing, Dima moved closer and
+#Page9Line3-1#		closer to the moon, for he had a plan.
+#Page9Time3#		5.95
+ 
+##Page 10
+#Page10Line1-0#		He took his fighting stick and hit the moon high
+#Page10Line1-1#		up into the air.
+#Page10Time1#		4.9
+#Page10Line2#		Once again, he ran away from Owl.
+#Page10Time2#		2.45
+#Page10Line3-0#		This time he stayed away for a very long time,
+#Page10Line3-1#		until Owl's family forgot all about him.
+#Page10Time3#		5.95
+ 
+##Page 11
+#Page11Line1-0#		Dima disguised himself again and returned to
+#Page11Line1-1#		Owl's place.
+#Page11Time1#		3.15
+#Page11Line2#		This time he wanted Owl's fire.
+#Page11Time2#		2.1
+#Page11Line3#		Owl had the firesticks hanging around his neck.
+#Page11Time3#		2.8
+#Page11Line4-0#		Dima joined Owl under a tree and the two men
+#Page11Line4-1#		started playing an old clapping game called gi.
+#Page11Time4#		6.3
+ 
+##Page 12
+#Page12Line1-0#		They clapped and clapped and as they clapped some
+#Page12Line1-1#		more, Owl's firesticks started jumping around his
+#Page12Line1-2#		chest to the rhythm of the clapping.
+#Page12Time1#		8.05
+#Page12Line2#		Clap-clap, clapclap.
+#Page12Time2#		0.7
+#Page12Line3-0#		Dima tried to grab the firesticks, but Owl threw
+#Page12Line3-1#		them over his neck so that they hung across his back.
+#Page12Time3#		7.0
+ 
+##Page 13
+#Page13Line1#		They clapped the whole day long.
+#Page13Time1#		2.1
+#Page13Line2-0#		The rhythm of the clapping made Owl forget all
+#Page13Line2-1#		about the firesticks.
+#Page13Time2#		4.2
+#Page13Line3-0#		When they swung around onto his chest once more,
+#Page13Line3-1#		Dima grabbed the firesticks and ran away.
+#Page13Time3#		5.6
+#Page13Line4-0#		Owl and his family ran after Dima, but he made a
+#Page13Line4-1#		clever plan.
+#Page13Time4#		4.55
+#Page13Line5-0#		He had a bag full of thorns and threw them onto
+#Page13Line5-1#		the ground behind him.
+#Page13Time5#		5.25
+#Page13Line6#		This stopped Owl and his family from chasing him.
+#Page13Time6#		3.15
+#Page13Line7#		They could not cross the thorns on the path.
+#Page13Time7#		3.15
+ 
+##Page 14
+#Page14Line1#		Dima could not wait to make fire.
+#Page14Time1#		2.45
+#Page14Line2#		He rubbed and rubbed the sticks.
+#Page14Time2#		2.1
+#Page14Line3-0#		He blew and blew the ember in a little dry grass
+#Page14Line3-1#		until a tiny flame appeared.
+#Page14Time3#		5.6
+#Page14Line4-0#		The fire grew and lit the whole veld and each time the 
+#Page14Line4-1#		flames reached a tree, Dima said, "From now on people
+#Page14Line4-2#		will be able to make a fire with each tree on earth."
+#Page14Time4#		11.9
+ 
+##Page 15
+#Page15Line1#		A long time passed.
+#Page15Time1#		1.4
+#Page15Line2-0#		When Dima finally returned to Owl's place, he
+#Page15Line2-1#		found no one but a little boy playing with wooden animals.
+#Page15Time2#		6.65
+#Page15Line3-0#		Dima asked the boy to show him where they kept
+#Page15Line3-1#		their water.
+#Page15Time3#		4.2
+#Page15Line4#		The boy led him to the place of water.
+#Page15Time4#		3.15
+#Page15Line5-0#		Dima saw the big djaba, the huge clay pot in
+#Page15Line5-1#		which the family stored water.
+#Page15Time5#		5.25
+ 
+##Page 16
+#Page16Line1-0#		Dima pretended to leave for his home, but he
+#Page16Line1-1#		secretly turned round to the place of water.
+#Page16Time1#		5.95
+#Page16Line2-0#		He turned the huge pot over so that the water
+#Page16Line2-1#		started flowing on the ground.
+#Page16Time2#		5.25
+#Page16Line3-0#		Dima quickly jumped over the flowing water to the
+#Page16Line3-1#		other side.
+#Page16Time3#		3.85
+#Page16Line4-0#		Then he was safely across the river of water
+#Page16Line4-1#		where Owl could not find him.
+#Page16Time4#		5.25
+ 
+##Page 17
+#Page17Line1-0#		This is why the whole earth has rivers full of
+#Page17Line1-1#		water today.
+#Page17Time1#		4.2
+#Page17Line2-0#		This is why we have the sun, moon and fire,
+#Page17Line2-1#		because of the magician Dima.
+#Page17Time2#		5.25
+ 
+##Page 18
+#Page18Text1-0#		Story notes.
+#Page18Text1-1#		In 2003, Katunga Carimbwe told this version of the Dima and Owl origin
+#Page18Text1-2#		story to Titu Mangumbu and Marlene Winberg in the Northern Cape
+#Page18Text1-3#		Province of South Africa while he was busy painting on a canvas.
+
+#Page18Text2-0#		Mangumbu, Mahongo and Winberg translated it and retold the story in this
+#Page18Text2-1#		written version with as few alterations as possible. His elders told the story
+#Page18Text2-2#		to him during his childhood in Mavinga, Angola, where he was born in 1958.
+
+#Page18Text3-0#		Most of the episodes in the Dima and Owl myth have a wide distribution in
+#Page18Text3-1#		the extensive area of southern Africa and the Kalahari whose original
+#Page18Text3-2#		inhabitants speak !Xun and other closely related languages, although the
+#Page18Text3-3#		names and identities of the trickster, Dima, and his adversary change from
+#Page18Text3-4#		area to area.
+
+#Page18Text4-0#		The 'clapping game' mentioned in our version, Dima and Owl, is still current
+#Page18Text4-1#		among the !xun, the Nharo, and possibly other communities of Kalahari San.
+#Page18Text4-2#		This story depicts Dima as a culture hero and transformer of the primeval
+#Page18Text4-3#		world into the present world. He achieves this with words, "From now on
+#Page18Text4-4#		people will be able to make a fire with each tree on earth."
+
+#Page18Text5-0#		The Manyeka Arts Trust holds a !Xun audio telling of this story by Meneputo
+#Page18Text5-1#		Mnaunga Maneka in archive.
+#Page18Text5-2#		The illustrations in this story are from story boards by Marlene Winberg
+#Page18Text5-3#		interpreted digitally by Satsiri Winberg.
+ 
+##Page 19
+#Page19Pic#			african-storybook
+#Page19Text1-0#		Dima and Owl.
+#Page19Text1-1#		Writer: Traditional San story.
+#Page19Text1-2#		Illustration: Manyeka Arts Trust.
+#Page19Text1-3#		© Manyeka Arts Trust, 2014. 
+#Page19Text1-4#		Audio: 
+#Page19Text1-5#		VT Software: AJR, NJA, TLG
+#Page19Text2-0# 	This work is licensed under a Creative Commons Attribution
+#Page19Text2-1# 	(CC-BY) Version 3.0 Unported Licence
+#Page19Text2-2# 	Disclaimer: You are free to download, copy, translate 
+#Page19Text2-3# 	or adapt this story and use the illustrations as long as you  
+#Page19Text2-4# 	attribute or credit the original creators.
+

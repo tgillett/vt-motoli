@@ -27,8 +27,7 @@
 
 #Page0Line1#	កាក់ឧស្សាហ័
 #Page0Time1#	1.2
-#Page0Line2#	Hard Work Coin
-#Page0Time2#	0
+#Page0Text1#	Hard Work Coin
 
 #Page1Line1-0#	កាក់ កាន់ ធុង តា ដូង កាន់ ជាល 
 #Page1Line1-1#	ហួច េដញ កុក | តាម ផ្លូវ ទៅ ស្រែ។ 

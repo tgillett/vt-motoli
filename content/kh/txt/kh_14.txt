@@ -25,27 +25,24 @@
 ####################################
 #Following are the lines of text for each page
 
-#Page0Line1#	Khmer title
+#Page0Line1#	ខ្លាឃ្មំុ និង ឃ្លៀច
 #Page0Time1#	1.8
-#Page0Line2#	Khmer Story 14
-#Page0Time2#	0
+#Page0Text1#	Khmer Story 14
 
-#Page1Line1-0#	line 1a
-#Page1Line1-1#	line 1b
-#Page1Line1-2#	line 1c
+#Page1Line1-0#	ថ្ងៃ មួយ មាន ខ្លា ឃ្មំុ ឃ្ញើច ជើង ឃ្លាន 
+#Page1Line1-1#	ឃ្លាតឃ្លៃ ឃ្មាតខ្មី ឃ្លាំ ចាប់ ឃ្មំុ ។ 
 #Page1Time1#	11.9
 
-#Page2Line1-0#	line 1a
-#Page2Line1-1#	line 1b
-#Page2Line1-2#	line 1c
+#Page2Line1-0#	វា ឃ្លាំ ចាប់ ពំុ ឃ្លាតឃ្លា ក៏ ប្រទះ ចៅ ឃ្លៀច 
+#Page2Line1-1#	ឃ្វាច ជើង ឃ្វាល គោ សុី ក្រួច ឃ្វិច កៀន ឃ្លាំង ។
 #Page2Time1#	12.3
 
-#Page3Line1-0#	line 1a
-#Page3Line1-1#	line 1b
+#Page3Line1-0#	គោ របស់ ឃ្លៀច ឃើញ ខ្លា ឃ្មំុ មុខ 
+#Page3Line1-1#	ឃ្មឹល ដើរ ខ្វើចៗ ជិត ដើម ឃ្មង់ ។
 #Page3Time1#	8.7
 
-#Page4Line1-0#	line 1a
-#Page4Line1-1#	line 1b
+#Page4Line1-0#	ឃ្លៀច ឈរ ឃ្លាត ជិត ឃ្លោក ក៏ ចាប់ គោ 
+#Page4Line1-1#	ឃ្លំុ ដឹក ទៅ ផ្ទះ ពំុ ឃ្លៀងឃ្លាត ។
 #Page4Time1#	9.4
 
 # Credit page

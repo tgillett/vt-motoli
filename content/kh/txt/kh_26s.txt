@@ -1,0 +1,113 @@
+
+# This is the title of the story
+#StoryName#	Khmer Sounds 26
+
+# This is the layout of the story
+#Format#	under
+
+# This is the total number of story pages not including the title page
+#MaxPages#	25
+
+# This is the maximum number of lines on any page
+#MaxLines#	1
+
+# This is the maximum number of continuation
+#MaxCont#	0
+
+# This is the picture scaling %
+#ScaleSide# 40
+#ScaleTop#  60
+
+# This is the pause timing
+#Pause# 300
+
+
+####################################
+#Following are the lines of text for each page
+
+#Page0Text1#	
+
+#Page1Line1#	&nil
+#Page1Time1#	0
+
+#Page2Line1#	&nil
+#Page2Time1#	0
+
+#Page3Line1#	&nil
+#Page3Time1#	0
+
+#Page4Line1#	&nil
+#Page4Time1#	0
+
+#Page5Line1#	&nil
+#Page5Time1#	0
+
+#Page6Line1#	&nil
+#Page6Time1#	0
+
+#Page7Line1#	&nil
+#Page7Time1#	0
+
+#Page8Line1#	&nil
+#Page8Time1#	0
+
+#Page9Line1#	&nil
+#Page9Time1#	0
+
+#Page10Line1#	&nil
+#Page10Time1#	0
+
+#Page11Line1#	&nil
+#Page11Time1#	0
+
+#Page12Line1#	&nil
+#Page12Time1#	0
+
+#Page13Line1#	&nil
+#Page13Time1#	0
+
+#Page14Line1#	&nil
+#Page14Time1#	0
+
+#Page15Line1#	&nil
+#Page15Time1#	0
+
+#Page16Line1#	&nil
+#Page16Time1#	0
+
+#Page17Line1#	&nil
+#Page17Time1#	0
+
+#Page18Line1#	&nil
+#Page18Time1#	0
+
+#Page19Line1#	&nil
+#Page19Time1#	0
+
+#Page20Line1#	&nil
+#Page20Time1#	0
+
+#Page21Line1#	&nil
+#Page21Time1#	0
+
+#Page22Line1#	&nil
+#Page22Time1#	0
+
+#Page23Line1#	&nil
+#Page23Time1#	0
+
+#Page24Line1#	&nil
+#Page24Time1#	0
+
+
+# Credit page
+#Page25Pic# 		motoli-credits
+#Page25Text1-0#	Khmer Sounds 26s
+#Page25Text1-1#	© MoToLi ET4D
+#Page25Text2-0#	Software AJR, NJA, TLG
+#Page25Text2-1#  This work is licensed under a Creative Commons Attribution
+#Page25Text2-2#  (CC-BY 4.0) Version 4.0 International Licence
+
+
+
+

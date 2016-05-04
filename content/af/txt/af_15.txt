@@ -1,0 +1,150 @@
+# This is the title of the story
+#StoryName#	Hen and Eagle
+# This is the layout of the story
+#Format#	side
+# This is the total number of story pages not including the title page
+#MaxPages#	11
+# This is the maximum number of lines on any page
+#MaxLines#	10
+# This is the maximum number of continuation lines
+#MaxCont# 5
+# This is the picture scaling %
+#ScaleSide# 40
+#ScaleTop#  60
+####################################
+#Following are the lines of text for each page
+<Identifier>		<-- Start of line -------------------- End of line -->
+##Title Page
+#Page0Line1#		Hen and Eagle
+#Page0Time1#		1.6
+#Page0Text2#		Writer: Ann Nduku
+#Page0Text3#		Illustration: Wiehan de Jager
+#Page0Text4#		© Africa Storybook Initiative, 2014
+ 
+##Page 1
+#Page1Line1#		Once upon a time, Hen and Eagle were friends.
+#Page1Time1#		3.15
+#Page1Line2#		They lived in peace with all the other birds.
+#Page1Time2#		3.15
+#Page1Line3#		None of them could fly.
+#Page1Time3#		1.75
+ 
+##Page 2
+#Page2Line1#		One day, there was famine in the land.
+#Page2Time1#		2.8
+#Page2Line2#		Eagle had to walk very far to find food.
+#Page2Time2#		3.15
+#Page2Line3#		She came back very tired.
+#Page2Time3#		1.75
+#Page2Line4-0#		"There must be an easier way to travel!" said
+#Page2Line4-1#		Eagle.
+#Page2Time4#		3.5
+ 
+##Page 3
+#Page3Line1-0#		After a good night's sleep, Hen had a brilliant
+#Page3Line1-1#		idea.
+#Page3Time1#		3.5
+#Page3Line2-0#		She began collecting the fallen feathers from all
+#Page3Line2-1#		their bird friends.
+#Page3Time2#		3.85
+#Page3Line3-0#		"Let's sew them together on top of our own
+#Page3Line3-1#		feathers," she said.
+#Page3Time3#		4.2
+#Page3Line4#		"Perhaps that will make it easier to travel."
+#Page3Time4#		2.8
+ 
+##Page 4
+#Page4Line1-0#		Eagle was the only one in the village with a
+#Page4Line1-1#		needle, so she started sewing first.
+#Page4Time1#		5.6
+#Page4Line2-0#		She made herself a pair of beautiful wings and
+#Page4Line2-1#		flew high above Hen.
+#Page4Time2#		4.55
+#Page4Line3-0#		Hen borrowed the needle but she soon got tired of
+#Page4Line3-1#		sewing.
+#Page4Time3#		3.85
+#Page4Line4-0#		She left the needle on the cupboard and went into
+#Page4Line4-1#		the kitchen to prepare food for her children.
+#Page4Time4#		6.3
+ 
+##Page 5
+#Page5Line1#		But the other birds had seen Eagle flying away.
+#Page5Time1#		3.15
+#Page5Line2-0#		They asked Hen to lend them the needle to make
+#Page5Line2-1#		wings for themselves too.
+#Page5Time2#		4.9
+#Page5Line3#		Soon there were birds flying all over the sky.
+#Page5Time3#		3.15
+ 
+##Page 6
+#Page6Line1-0#		When the last bird returned the borrowed needle,
+#Page6Line1-1#		Hen was not there.
+#Page6Time1#		4.2
+#Page6Line2-0#		So her children took the needle and started
+#Page6Line2-1#		playing with it.
+#Page6Time2#		3.85
+#Page6Line3-0#		When they got tired of the game, they left the
+#Page6Line3-1#		needle in the sand.
+#Page6Time3#		4.9
+ 
+##Page 7
+#Page7Line1#		Later that afternoon, Eagle returned.
+#Page7Time1#		1.75
+#Page7Line2-0#		She asked for the needle to fix some feathers
+#Page7Line2-1#		that had loosened on her journey.
+#Page7Time2#		5.25
+#Page7Line3#		Hen looked on the cupboard.
+#Page7Time3#		1.75
+#Page7Line4#		She looked in the kitchen.
+#Page7Time4#		1.75
+#Page7Line5#		She looked in the yard.
+#Page7Time5#		1.75
+#Page7Line6#		But the needle was nowhere to be found.
+#Page7Time6#		2.8
+ 
+##Page 8
+#Page8Line1#		"Just give me a day," Hen begged Eagle.
+#Page8Time1#		2.8
+#Page8Line2-0#		"Then you can fix your wing and fly away to get
+#Page8Line2-1#		food again."
+#Page8Time2#		4.55
+#Page8Line3#		"Just one more day," said Eagle.
+#Page8Time3#		2.1
+#Page8Line4-0#		"If you can't find the needle, you'll have to
+#Page8Line4-1#		give me one of your chicks as payment."
+#Page8Time4#		5.95
+ 
+##Page 9
+#Page9Line1-0#		When Eagle came the next day, she found Hen
+#Page9Line1-1#		scratching in the sand, but no needle.
+#Page9Time1#		5.6
+#Page9Line2-0#		So Eagle flew down very fast and caught one of
+#Page9Line2-1#		the chicks.
+#Page9Time2#		4.2
+#Page9Line3#		She carried it away.
+#Page9Time3#		1.4
+#Page9Line4-0#		Forever after that, whenever Eagle appears, she
+#Page9Line4-1#		finds Hen scratching in the sand for the needle.
+#Page9Time4#		5.6
+ 
+##Page 10
+#Page10Line1-0#		As the shadow of Eagle's wing falls on the
+#Page10Line1-1#		ground, Hen warns her chicks.
+#Page10Time1#		4.9
+#Page10Line2#		"Get out of the bare and dry land.
+#Page10Time2#		2.8
+#Page10Line3#		And they respond: "We are not fools. We will run."
+#Page10Time4#		2.0
+ 
+##Page 11
+#Page11Text1#		Hen and Eagle.
+#Page11Text2#		Writer: Ann Nduku.
+#Page11Text3#		Illustration: Wiehan de Jager.
+#Page11Text4#		Language: English.
+#Page11Text5#		© Africa Storybook Initiative, 2014.
+#Page11Text6# 	This work is licensed under a Creative Commons Attribution
+#Page11Text7# 	(CC-BY) Version 3.0 Unported Licence
+#Page11Text8# 	Disclaimer: You are free to download, copy, translate 
+#Page11Text9# 	or adapt this story and use the illustrations as long as you  
+#Page11Text10# 	attribute or credit the original author/s and illustrator/s.
+

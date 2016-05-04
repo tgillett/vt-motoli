@@ -25,28 +25,25 @@
 ####################################
 #Following are the lines of text for each page
 
-#Page0Line1#	Khmer title
+#Page0Line1#	ឆ្មាឆ្លាត
 #Page0Time1#	0.9
-#Page0Line2#	Khmer Story 16
-#Page0Time2#	0
+#Page0Text1#	Khmer Story 16
 
-#Page1Line1-0#	line 1a
-#Page1Line1-1#	line 1b
-#Page1Line1-2#	line 1c
+#Page1Line1-0#	ឆ្មា ឃើញ ឆ្តោ ឆ្លោក ឆ្លាំង ឆ្លូញ 
+#Page1Line1-1#	ឆ្ពិន ឆ្លាម ឆ្លេឆ្លា ឆ្វេង ស្តាំ ឆ្មក់ កៀន 
+#Page1Line1-2#	ឆ្នាំង ឆ្លៀត យក ឆី ។
 #Page1Time1#	16.3
 
-#Page2Line1-0#	line 1a
-#Page2Line1-1#	line 1b
+#Page2Line1-0#	 ឆ្កែ ឃើញ ឆ្មា ឆ្លេឆ្លា ឈរ ឆ្តុប រួច ទៅ ឆ្លង ឆ្លើយ ។ 
 #Page2Time1#	8.4
 
-#Page3Line1-0#	line 1a
-#Page3Line1-1#	line 1b
-#Page3Line1-2#	line 1c
+#Page3Line1-0#	បង ឆ្មា ខ្ញំុ ឆ្ងល់ ឃើញ ពី ឆ្ងាយ បង ឆ្លេឆ្លា 
+#Page3Line1-1#	ហាក់ ឆ្គាំឆ្គង ឆ្មក់ ចាប់ អ្វី ឆ្មា ថា ពូ ឆ្លូវ ឆ្នាំ 
+#Page3Line1-2#	នេះ ឆ្អើរ ត្រី ធំុ ក្លិន ឆ្អេះឆ្អាប គួរ ចង់ ឆី ។ 
 #Page3Time1#	23.7
 
-#Page4Line1-0#	line 1a
-#Page4Line1-1#	line 1b
-#Page4Line1-2#	line 1c
+#Page4Line1-0#	ឆ្កែ អរ ហើយ ថា បង ឆ្លាត ណាស់! យើង 
+#Page4Line1-1#	ចាំ ពូ ឆ្លូវ ឆ្អើរ វា ឆ្អិន សំុ ឆី ឲ្យ ឆ្អែត ឆ្អល់ ។ 
 #Page4Time1#	13.7
 
 # Credit page

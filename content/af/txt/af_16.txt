@@ -1,0 +1,220 @@
+# This is the title of the story
+#StoryName#	Holidays with grandmother
+# This is the layout of the story
+#Format#	side
+# This is the total number of story pages not including the title page
+#MaxPages#	21
+# This is the maximum number of lines on any page
+#MaxLines#	10
+# This is the maximum number of continuation lines
+#MaxCont# 5
+# This is the picture scaling %
+#ScaleSide# 40
+#ScaleTop#  60
+####################################
+#Following are the lines of text for each page
+<Identifier>		<-- Start of line -------------------- End of line -->
+##Title Page
+#Page0Line1#		Holidays with grandmother
+#Page0Time1#		1.6
+#Page0Text2#		Writer: Violet Otieno
+#Page0Text3#		Illustration: Catherine Groenewald
+#Page0Text4#		© African Storybook Initiative, 2015
+ 
+##Page 1
+#Page1Line1-0#		Odongo and Apiyo lived in the city with their
+#Page1Line1-1#		father.
+#Page1Time1#		3.5
+#Page1Line2#		They looked forward to the holidays.
+#Page1Time2#		2.1
+#Page1Line3-0#		Not just because school was closed, but because
+#Page1Line3-1#		they went to visit their grandmother.
+#Page1Time3#		4.9
+#Page1Line4#		She lived in a fishing village near a large lake.
+#Page1Time4#		3.5
+ 
+##Page 2
+#Page2Line1-0#		Odongo and Apiyo were excited because it was time
+#Page2Line1-1#		to visit their grandmother again.
+#Page2Time1#		4.9
+#Page2Line2-0#		The night before, they packed their bags and got
+#Page2Line2-1#		ready for the long journey to her village.
+#Page2Time2#		5.95
+#Page2Line3-0#		They could not sleep and talked the whole night
+#Page2Line3-1#		about the holiday.
+#Page2Time3#		4.2
+ 
+##Page 3
+#Page3Line1-0#		Early the next morning, they left for the village
+#Page3Line1-1#		in their father's car.
+#Page3Time1#		4.55
+#Page3Line2-0#		They drove past mountains, wild animals and tea
+#Page3Line2-1#		plantations.
+#Page3Time2#		3.15
+#Page3Line3#		They counted cars and sang songs.
+#Page3Time3#		2.1
+ 
+##Page 4
+#Page4Line1-0#		After a while, the children were tired and fell
+#Page4Line1-1#		asleep.
+#Page4Time1#		3.5
+ 
+##Page 5
+#Page5Line1-0#		Father woke up Odongo and Apiyo as they arrived
+#Page5Line1-1#		in the village.
+#Page5Time1#		4.2
+#Page5Line2-0#		They found Nyar-Kanyada, their grandmother,
+#Page5Line2-1#		resting on a mat under a tree.
+#Page5Time2#		4.2
+#Page5Line3-0#		Nyar-Kanyada in Luo, means 'daughter of the
+#Page5Line3-1#		people of Kanyada'.
+#Page5Time3#		3.5
+#Page5Line4#		She was a strong and beautiful woman.
+#Page5Time4#		2.45
+ 
+##Page 6
+#Page6Line1-0#		Nyar-Kanyada welcomed them into the house and
+#Page6Line1-1#		danced around the room singing with joy.
+#Page6Time1#		4.9
+#Page6Line2-0#		Her grandchildren were excited to give her the
+#Page6Line2-1#		presents they brought from the city.
+#Page6Time2#		4.9
+#Page6Line3#		"First open my gift," said Odongo.
+#Page6Time3#		2.1
+#Page6Line4#		"No, my gift first!" said Apiyo.
+#Page6Time4#		2.1
+ 
+##Page 7
+#Page7Line1-0#		After she opened the presents, Nyar-Kanyada
+#Page7Line1-1#		blessed her grandchildren in a traditional way.
+#Page7Time1#		4.55
+ 
+##Page 8
+#Page8Line1#		Then Odongo and Apiyo went outside.
+#Page8Time1#		2.1
+#Page8Line2#		They chased butterflies and birds.
+#Page8Time2#		1.75
+ 
+##Page 9
+#Page9Line1-0#		They climbed trees and splashed in the water of
+#Page9Line1-1#		the lake.
+#Page9Time1#		3.85
+ 
+##Page 10
+#Page10Line1-0#		When it was dark they returned to the house for
+#Page10Line1-1#		dinner.
+#Page10Time1#		3.85
+#Page10Line2-0#		Before they could finish eating, they were
+#Page10Line2-1#		falling asleep!
+#Page10Time2#		3.15
+ 
+##Page 11
+#Page11Line1-0#		The next day, the children's father drove back to
+#Page11Line1-1#		the city leaving them with Nyar-Kanyada.
+#Page11Time1#		5.25
+ 
+##Page 12
+#Page12Line1-0#		Odongo and Apiyo helped their grandmother with
+#Page12Line1-1#		household chores.
+#Page12Time1#		3.15
+#Page12Line2#		They fetched water and firewood.
+#Page12Time2#		1.75
+#Page12Line3-0#		They collected eggs from the chickens and picked
+#Page12Line3-1#		greens from the garden.
+#Page12Time3#		4.2
+ 
+##Page 13
+#Page13Line1-0#		Nyar-Kanyada taught her grandchildren to make
+#Page13Line1-1#		soft ugali to eat with stew.
+#Page13Time1#		4.2
+#Page13Line2-0#		She showed them how to make coconut rice to eat
+#Page13Line2-1#		with roast fish.
+#Page13Time2#		4.55
+ 
+##Page 14
+#Page14Line1-0#		One morning, Odongo took his grandmother's cows
+#Page14Line1-1#		to graze.
+#Page14Time1#		3.15
+#Page14Line2#		They ran onto a neighbour's farm.
+#Page14Time2#		2.1
+#Page14Line3#		The farmer was angry with Odongo.
+#Page14Time3#		2.1
+#Page14Line4-0#		He threatened to keep the cows for eating his
+#Page14Line4-1#		crops.
+#Page14Time4#		3.5
+#Page14Line5-0#		After that day, the boy made sure that the cows
+#Page14Line5-1#		did not get into trouble again.
+#Page14Time5#		5.6
+ 
+##Page 15
+#Page15Line1-0#		On another day, the children went to the market
+#Page15Line1-1#		place with Nyar-Kanyada.
+#Page15Time1#		4.2
+#Page15Line2-0#		She had a stall selling vegetables, sugar and
+#Page15Line2-1#		soap.
+#Page15Time2#		3.15
+#Page15Line3#		Apiyo liked to tell customers the price of items.
+#Page15Time3#		3.15
+#Page15Line4#		Odongo would pack the items that customers bought.
+#Page15Time4#		2.8
+ 
+##Page 16
+#Page16Line1-0#		At the end of the day they drank chai tea
+#Page16Line1-1#		together.
+#Page16Time1#		3.85
+#Page16Line2-0#		They helped grandmother to count the money she
+#Page16Line2-1#		earned.
+#Page16Time2#		3.15
+ 
+##Page 17
+#Page17Line1-0#		But too soon the holidays were over and the
+#Page17Line1-1#		children had to go back to the city.
+#Page17Time1#		5.95
+#Page17Line2-0#		Nyar-Kanyada gave Odongo a cap and Apiyo a
+#Page17Line2-1#		sweater.
+#Page17Time2#		3.15
+#Page17Line3#		She packed food for their journey.
+#Page17Time3#		2.1
+ 
+##Page 18
+#Page18Line1-0#		When their father came to fetch them, they did
+#Page18Line1-1#		not want to leave.
+#Page18Time1#		4.55
+#Page18Line2-0#		The children begged Nyar-Kanyada to go with them
+#Page18Line2-1#		to the city.
+#Page18Time2#		3.85
+#Page18Line3#		She smiled and said, "I am too old for the city."
+#Page18Time3#		3.85
+#Page18Line4-0#		"I will be waiting for you to come to my village
+#Page18Line4-1#		again."
+#Page18Time4#		4.2
+ 
+##Page 19
+#Page19Line1-0#		Odongo and Apiyo both hugged her tightly and said
+#Page19Line1-1#		goodbye.
+#Page19Time1#		3.5
+ 
+##Page 20
+#Page20Line1-0#		When Odongo and Apiyo went back to school they
+#Page20Line1-1#		told their friends about life in the village.
+#Page20Time1#		5.95
+#Page20Line2#		Some children felt that life in the city was good.
+#Page20Time2#		3.5
+#Page20Line3#		Others felt that the village was better.
+#Page20Time3#		2.45
+#Page20Line4-0#		But most of all, everyone agreed that Odongo and
+#Page20Line4-1#		Apiyo had a wonderful grandmother!
+#Page20Time4#		4.9
+ 
+##Page 21
+#Page21Text1#		Holidays with grandmother.
+#Page21Text2#		Writer: Violet Otieno.
+#Page21Text3#		Illustration: Catherine Groenewald.
+#Page21Text4#		Language: English.
+#Page21Text5#		© African Storybook Initiative, 2015.
+#Page21Text6# 	This work is licensed under a Creative Commons Attribution
+#Page21Text7# 	(CC-BY 4.0) Version 4.0 International Licence
+#Page21Text8# 	Disclaimer: You are free to download, copy, translate 
+#Page21Text9# 	or adapt this story and use the illustrations as long as you  
+#Page21Text10# 	attribute or credit the original author/s and illustrator/s.
+

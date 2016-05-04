@@ -25,28 +25,24 @@
 ####################################
 #Following are the lines of text for each page
 
-#Page0Line1#	title
+#Page0Line1#	ខ្យងភ័យ
 #Page0Time1#	1.1
-#Page0Line2#	Khmer Story 12
-#Page0Time2#	0
+#Page0Text1#	Khmer Story 12
 
-#Page1Line1-0#	line 1a
-#Page1Line1-1#	line 1b
+#Page1Line1#	ខ្យង ខ្ចៅ ខ្យាដំរី ខ្ចី លុយ ខ្លែង ។ 
 #Page1Time1#	7.1
 
-#Page2Line1-0#	line 1a
-#Page2Line1-1#	line 1b
-#Page2Line1-2#	line 1c
+#Page2Line1-0#	ខ្យង ភ័យ ខ្លបខ្លាច យំ ខ្សឺបខ្សួល ខ្នះខ្នែង 
+#Page2Line1-1#	ខ្វែងខ្វាត់ ជួប ខ្លា ក្បែរ ដើម ខ្នុរ ។
 #Page2Time1#	11.9
 
-#Page3Line1-0#	line 1a
-#Page3Line1-1#	line 1b
-#Page3Line1-2#	line 1c
+#Page3Line1-0#	ខ្លា ខ្មៅ ជើង ខ្លី រស់ នៅ ក្បែរ ភ្នំ ខ្ពស់ ខ្សឹប 
+#Page3Line1-1#	ប្រាប់ ខ្យង ថា កុំ ភ័យ ថ្ងៃ ក្រោយ ខ្សត់ អី 
+#Page3Line1-2#	កំុ ខ្នី ខ្ជីខ្ជា នាំ ខ្ទេចខ្ទី ដល់ កេរ្តិ៍ឈ្មេាះ ។
 #Page3Time1#	19.6
 
-#Page4Line1-0#	line 1a
-#Page4Line1-1#	line 1b
-#Page4Line1-2#	line 1c
+#Page4Line1-0#	ខ្យង ខ្ចៅ ខ្យាដំរី លែង ខ្វិន ភ័យ រត់ 
+#Page4Line1-1#	ខ្ញាក ខ្ញៀវខ្ញារ ជិត ដើម ខ្ញែរ ។
 #Page4Time1#	12.0
 
 # Credit page

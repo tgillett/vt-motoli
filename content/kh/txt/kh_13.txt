@@ -25,33 +25,31 @@
 ####################################
 #Following are the lines of text for each page
 
-#Page0Line1#	Khmer title
+#Page0Line1#	គ្រំ និង គ្រែង
 #Page0Time1#	1.5
-#Page0Line2#	Khmer Story 13
-#Page0Time2#	0
+#Page0Text1#	Khmer Story 13
 
-#Page1Line1-0#	line 1a
-#Page1Line1-1#	line 1b
+#Page1Line1-0#	គ្រា មួយ គ្រួសារ គ្រំ ពិគ្រេាះ គ្នា 
+#Page1Line1-1#	នៅ លើ គ្រែ ក្រោម ដើម គ្រញូង ។ 
 #Page1Time1#	9.5
 
-#Page2Line1-0#	line 1a
-#Page2Line1-1#	line 1b
+#Page2Line1-0#	ឪ ប្រាប់ ថា គ្រែង គ្រុន គ្មាន 
+#Page2Line1-1#	គ្រួសារ ជួយ គ្រប់គ្រង ។ 
 #Page2Time1#	6.7
 
-#Page3Line1-0#	line 1a
-#Page3Line1-1#	line 1b
+#Page3Line1-0#	ម៉ែ ថា គ្រែង គ្រាំគ្រា គ្មាន ថ្នាំ គ្រាប់ 
+#Page3Line1-1#	លេប គ្រប់គ្រាន់ ។ 
 #Page3Time1#	6.7
 
-#Page4Line1-0#	line 1a
-#Page4Line1-1#	line 1b
-#Page4Line1-2#	line 1c
+#Page4Line1-0#	កូន គ្រំ ថា “កូន អាណិត ពូ គ្រែង ណាស់!” 
+#Page4Line1-1#	គ្រួសារ គ្រំ គ្រោង គ្នីគ្នា ជួយ គ្រែង ។ 
 #Page4Time1#	11.3
 
-#Page5Line1-0#	line 1a
-#Page5Line1-1#	line 1b
+#Page5Line1-0#	ម៉ែ គ្នេគ្នាន់ ធ្វើ នំ គ្រក់ ឪ ពិគ្រេាះ គ្រូពេទ្យ 
+#Page5Line1-1#	ទិញ ថ្នាំ គ្រុន ឲ្យ គ្រែង ។ 
 #Page5Time1#	8.6
 
-#Page6Line1-0#	line 1a
+#Page6Line1-0#	គ្រែង គ្រាន់បើ សរសើរ ដឹង គុណ ។ 
 #Page6Time1#	4.2
 
 # Credit page
