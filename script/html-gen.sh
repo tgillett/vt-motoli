@@ -95,10 +95,11 @@ cat > ./$OutputFile << EOF
 	<title>
 	$StoryName
 	</title>
-	<link rel="stylesheet" href="../common/storyStyles.css">
-	<script src="../common/storyScripts.js"></script>
+	<link rel="stylesheet" href="../../common/storyStyles.css">
+	<script src="../../common/storyScripts.js"></script>
 </head>
 <body onload="initialise()" onresize="limitPictureSize()">
+<p id="loadmsg">Loading the story...</p>
 <div class="$Format" id="story">
 
 <!-- Data for this story -->
@@ -124,7 +125,7 @@ do
 	# Get common image
 	PICNAME=`grep "#Page"$i"Pic#" $StoryFile | cut -d '#' -f 3 | sed 's/^[ \t]*//;s/[ \t]*$//'`
 	if [ -n "$PICNAME" ]; then
-		PIC="../common/"$PICNAME".jpg"
+		PIC="../../common/"$PICNAME".jpg"
 	else
 		PIC="p"$i"pic.jpg"
 	fi
@@ -138,19 +139,19 @@ do
 <div class="pict">
 <div class="underpic"> <!-- Format for a vertically oriented page -->
 	<table><tr>
-	<td><img src="../common/back.png" class="btnback" onclick="pageBack()"></img></td>
+	<td><img src="../../common/back.png" class="btnback" onclick="pageBack()"></img></td>
 	<td><img src="$PIC" class="mainpic"></img></td>
-	<td><img src="../common/fwd.png" class="btnfwd" onclick="pageFwd()"></img></td>
+	<td><img src="../../common/fwd.png" class="btnfwd" onclick="pageFwd()"></img></td>
 	</tr></table>
 </div>
 
 <div class="sidepic"> <!-- Format for a horizontally oriented page -->
 	<img src="$PIC" class="mainpic"></img>
 	<table><tr>
-	<td><img src="../common/back.png" class="btnback" onclick="pageBack()"></img></td>
+	<td><img src="../../common/back.png" class="btnback" onclick="pageBack()"></img></td>
 	<td><span class="title">$StoryName</span><br />
 	<span class="pgnum">page #</span></td>
-	<td><img src="../common/fwd.png" class="btnfwd" onclick="pageFwd()"></img></td>
+	<td><img src="../../common/fwd.png" class="btnfwd" onclick="pageFwd()"></img></td>
 	</tr></table>
 </div>
 </div>
@@ -203,7 +204,7 @@ function do_lines() {
 <tr><td class="textLine">
 <span class="line"><span>$LINE</span></span><br /><progress value="0" max="100"></progress></td>
 <!-- Audio file, time in secs, page ID, line No. -->
-<td class="button"><img src="../common/play.png" onclick="playAudio($SOUND, '$TIME', $PAGENO, '$j' )"></img></td>
+<td class="button"><img src="../../common/play.png" onclick="playAudio($SOUND, '$TIME', $PAGENO, '$j' )"></img></td>
 </tr>
 EOF
 
@@ -217,7 +218,8 @@ EOF
 		if [ -n "$LINE" ]; then
 			CONTLINE=TRUE
 			cat >> ./$OutputFile << EOF
-<tr><!-- Text line 1 -->
+
+<tr><!-- Text line $j -->
 <td class="textLine wrap">
 <span class="line"><span>$LINE</span></span><br /><progress value="0"></progress><br />
 EOF
@@ -291,9 +293,8 @@ EOF
 		if [ $CONTLINE = "TRUE" ]; then
 			cat >> ./$OutputFile << EOF
 </td>
-
 <!-- Audio file, time in secs, page ID, line No. -->
-<td class="button"><img src="../common/play.png" onclick="playAudio($SOUND, '$TIME', $PAGENO, '$j' )"></img></td>
+<td class="button"><img src="../../common/play.png" onclick="playAudio($SOUND, '$TIME', $PAGENO, '$j' )"></img></td>
 </tr>
 EOF
 		fi
