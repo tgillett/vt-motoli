@@ -57,7 +57,7 @@
 #Page2Time3#		3.0
 
 ##Page 3
-#Page3Line1-0#  Hyena suggested that it was good to plant maize.||
+#Page3Line1-0#  Hyena suggested that it was good to plant maize.|
 #Page3Line1-1#  Hare agreed.
 #Page3Time1#		4.0
 
@@ -91,8 +91,8 @@
 
 
 ##Page 5
-#Page5Line1-0#  Hyena was convinced by Hare's words.||
-#Page5Line1-1#  He agreed to till the land alone.||
+#Page5Line1-0#  Hyena was convinced by Hare's words.|
+#Page5Line1-1#  He agreed to till the land alone.|
 #Page5Line1-2#  It was a lot of work.| Hare did not help at all.
 #Page5Time1#		7.2
 
@@ -125,7 +125,7 @@
 #Page7Line1-2#  to keep birds away.
 #Page7Time1#		6.0
 
-#Page7Line2-0#  Chasing the birds was not a hard job.||
+#Page7Line2-0#  Chasing the birds was not a hard job.|
 #Page7Line2-1#  He did not sweat at all.
 #Page7Time2#		2.5
 
@@ -160,17 +160,17 @@
 #Page10Line1#   Hyena went to harvest things that grew below the soil.
 #Page10Time1#		3.0
 
-#Page10Line2-0# He dug,| hoping to get a good harvest.||
+#Page10Line2-0# He dug,| hoping to get a good harvest.|
 #Page10Line2-1# But he only found roots under the soil.
 #Page10Time2#		4.0
 
-#Page10Line3-0# He dug everywhere.||
+#Page10Line3-0# He dug everywhere.|
 #Page10Line3-1# He did not find anything to harvest.
 #Page10Time3#		2.5
 
 
 ##Page 11
-#Page11Line1-0# Hyena realised that he had been cheated.||
+#Page11Line1-0# Hyena realised that he had been cheated.|
 #Page11Line1-1# He was angry.
 #Page11Time1#		2.5
 
@@ -217,21 +217,21 @@
 #Page14Line1-1# to harvest what grows above the ground.
 #Page14Time1#		5.0
 
-#Page14Line2-0# Hyena went looking for something to harvest.||
+#Page14Line2-0# Hyena went looking for something to harvest.|
 #Page14Line2-1# But he did not find anything.
 #Page14Time2#		5.0
 
-#Page14Line3-0# He only found potato leaves.||
+#Page14Line3-0# He only found potato leaves.|
 #Page14Line3-1# He went back home with empty baskets.
 #Page14Time3#		4.8
 
 
 ##Page 15
-#Page15Line1-0# Hare harvested a lot of big potatoes.||
+#Page15Line1-0# Hare harvested a lot of big potatoes.|
 #Page15Line1-1# He put them in his store.
 #Page15Time1#		4.8
 
-#Page15Line2-0# When Hyena saw Hare’s harvest, he was annoyed.||
+#Page15Line2-0# When Hyena saw Hare’s harvest, he was annoyed.|
 #Page15Line2-1# “Why did you cheat me?” Hyena asked Hare.
 #Page15Time2#		8.0
 
@@ -241,8 +241,8 @@
 
 
 ##Page 16
-#Page16Line1-0# Hyena was very angry.||
-#Page16Line1-1# He chased after Hare in order to get revenge.||
+#Page16Line1-0# Hyena was very angry.|
+#Page16Line1-1# He chased after Hare in order to get revenge.|
 #Page16Line1-2# But Hare ran away fast.
 #Page16Time1#   4.8
 
@@ -251,15 +251,18 @@
 
 ##Page 17
 #Page17Pic#			african-storybook
-#Page17Text1#		Hare and Hyena
-#Page17Text2#		Writer: Mutugi Kamundi
-#Page17Text3#		Illustration: Rob Owen
-#Page17Text4#		© African Storybook Initiative, 2014
-#Page17Text5# 	This work is licensed under a Creative Commons Attribution
-#Page17Text6# 	(CC-BY 4.0) Version 4.0 International Licence
-#Page17Text7# 	Disclaimer: You are free to download, copy, translate 
-#Page17Text8# 	or adapt this story and use the illustrations as long as you  
-#Page17Text9# 	attribute or credit the original author/s and illustrator/s.
+#Page17Text1-0#		Hare and Hyena
+#Page17Text1-1#		Writer: Mutugi Kamundi
+#Page17Text1-2#		Illustration: Rob Owen
+#Page17Text1-3#		Audio: Eve McKenzie-McHarg, Logan McAuliffe, Sophia Goodwin
+#Page17Text1-4#		Software: AJR, NJA, TLG.
+
+#Page17Text2-0#		© African Storybook Initiative, 2014
+#Page17Text2-1# 	This work is licensed under a Creative Commons Attribution
+#Page17Text2-2# 	(CC-BY 4.0) Version 4.0 International Licence
+#Page17Text2-3# 	Disclaimer: You are free to download, copy, translate 
+#Page17Text2-4# 	or adapt this story and use the illustrations as long as you  
+#Page17Text2-5# 	attribute or credit the original author/s and illustrator/s.
 
 
 
