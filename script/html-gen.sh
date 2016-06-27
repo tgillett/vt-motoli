@@ -187,6 +187,13 @@ function do_lines() {
 		LINE=`grep "#Page"$i"Line"$j"#" $StoryFile | cut -d '#' -f 3 | sed 's/^[ \t]*//;s/[ \t]*$//' | sed s/"$PAUSE"/"$HTMLPAUSE"/g`
 		TIME=`cat $StoryFile | grep "#Page"$i"Time"$j"#" | cut -d '#' -f 3 | sed 's/^[ \t]*//;s/[ \t]*$//'`
 
+		LANG=`cat $StoryFile | grep "#Page"$i"Lang"$j"#" | cut -d '#' -f 3 | sed 's/^[ \t]*//;s/[ \t]*$//'`
+		if [ "$LANG" != "" ]; then
+			LANG2=" class=\"l-$LANG\""
+		else
+			LANG2=""
+		fi
+
 		PAGENO="'p"$i"'"
 		SOUND="'p"$i"sound"$j".mp3'"
 		VALIDLINE=FALSE
@@ -201,13 +208,12 @@ function do_lines() {
 			cat >> ./$OutputFile << EOF
 
 <!-- Text line $j -->
-<tr><td class="textLine">
+<tr$LANG2><td class="textLine">
 <span class="line"><span>$LINE</span></span><br /><progress value="0" max="100"></progress></td>
 <!-- Audio file, time in secs, page ID, line No. -->
 <td class="button"><img src="../../common/play.png" onclick="playAudio($SOUND, '$TIME', $PAGENO, '$j' )"></img></td>
 </tr>
 EOF
-
 		fi
 
 		# Do first continuation line
@@ -215,11 +221,18 @@ EOF
 		# Look for the first continuation line
 		LINE=`grep "#Page"$i"Line"$j"-0#" $StoryFile | cut -d '#' -f 3 | sed 's/^[ \t]*//;s/[ \t]*$//' | sed s/"$PAUSE"/"$HTMLPAUSE"/g`
 
+		LANG=`cat $StoryFile | grep "#Page"$i"Lang"$j"#" | cut -d '#' -f 3 | sed 's/^[ \t]*//;s/[ \t]*$//'`
+		if [ "$LANG" != "" ]; then
+			LANG2=" class=\"l-$LANG\""
+		else
+			LANG2=""
+		fi
+
 		if [ -n "$LINE" ]; then
 			CONTLINE=TRUE
 			cat >> ./$OutputFile << EOF
 
-<tr><!-- Text line $j -->
+<tr$LANG2><!-- Text line $j -->
 <td class="textLine wrap">
 <span class="line"><span>$LINE</span></span><br /><progress value="0"></progress><br />
 EOF
