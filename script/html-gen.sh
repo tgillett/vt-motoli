@@ -209,7 +209,7 @@ function do_lines() {
 
 <!-- Text line $j -->
 <tr$LANG2><td class="textLine">
-<span class="line"><span>$LINE</span></span><br /><progress value="0" max="100"></progress></td>
+<span class="line"><span>$LINE</span></span><progress value="0" max="100"></progress></td>
 <!-- Audio file, time in secs, page ID, line No. -->
 <td class="button"><img src="../../common/play.png" onclick="playAudio($SOUND, '$TIME', $PAGENO, '$j' )"></img></td>
 </tr>
@@ -234,7 +234,7 @@ EOF
 
 <tr$LANG2><!-- Text line $j -->
 <td class="textLine wrap">
-<span class="line"><span>$LINE</span></span><br /><progress value="0"></progress><br />
+<span class="line"><span>$LINE</span></span><progress value="0"></progress>
 EOF
 		fi
 
@@ -246,7 +246,7 @@ EOF
 
 				if [ -n "$LINE" ]; then
 						cat >> ./$OutputFile << EOF
-<span class="line"><span>$LINE</span></span><br /><progress value="0"></progress><br />
+<span class="line"><span>$LINE</span></span><progress value="0"></progress>
 EOF
 				fi
 			done
