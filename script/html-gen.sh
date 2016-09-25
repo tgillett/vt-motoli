@@ -139,19 +139,19 @@ do
 <div class="pict">
 <div class="underpic"> <!-- Format for a vertically oriented page -->
 	<table><tr>
-	<td><img src="../../common/back.png" class="btnback" onclick="pageBack()"></img></td>
-	<td><img src="$PIC" class="mainpic"></img></td>
-	<td><img src="../../common/fwd.png" class="btnfwd" onclick="pageFwd()"></img></td>
+	<td><img src="../../common/back.png" class="btnback" onclick="pageBack()"></td>
+	<td><img src="$PIC" class="mainpic"></td>
+	<td><img src="../../common/fwd.png" class="btnfwd" onclick="pageFwd()"></td>
 	</tr></table>
 </div>
 
 <div class="sidepic"> <!-- Format for a horizontally oriented page -->
-	<img src="$PIC" class="mainpic"></img>
+	<img src="$PIC" class="mainpic">
 	<table><tr>
-	<td><img src="../../common/back.png" class="btnback" onclick="pageBack()"></img></td>
+	<td><img src="../../common/back.png" class="btnback" onclick="pageBack()"></td>
 	<td><span class="title">$StoryName</span><br />
 	<span class="pgnum">page #</span></td>
-	<td><img src="../../common/fwd.png" class="btnfwd" onclick="pageFwd()"></img></td>
+	<td><img src="../../common/fwd.png" class="btnfwd" onclick="pageFwd()"></td>
 	</tr></table>
 </div>
 </div>
@@ -207,11 +207,11 @@ function do_lines() {
 			VALIDLINE=TRUE
 			cat >> ./$OutputFile << EOF
 
-<!-- Text line $j -->
+<!-- Line $j -->
 <tr$LANG2><td class="textLine">
 <span class="line"><span>$LINE</span></span><progress value="0" max="100"></progress></td>
 <!-- Audio file, time in secs, page ID, line No. -->
-<td class="button"><img src="../../common/play.png" onclick="playAudio($SOUND, '$TIME', $PAGENO, '$j' )"></img></td>
+<td class="button"><img src="../../common/play.png" onclick="playAudio($SOUND, '$TIME', $PAGENO, '$j' )"></td>
 </tr>
 EOF
 		fi
@@ -232,7 +232,7 @@ EOF
 			CONTLINE=TRUE
 			cat >> ./$OutputFile << EOF
 
-<tr$LANG2><!-- Text line $j -->
+<tr$LANG2><!-- Line $j -->
 <td class="textLine wrap">
 <span class="line"><span>$LINE</span></span><progress value="0"></progress>
 EOF
@@ -262,9 +262,8 @@ EOF
 
 		if [ -n "$LINE" ]; then
 			cat >> ./$OutputFile << EOF
-<!-- Text line $j --><tr><td><span> 
-$LINE
-</span><br />
+<!-- Text $j -->
+<tr><td> $LINE </td></tr>
 EOF
 		fi
 
@@ -276,7 +275,8 @@ EOF
 		if [ -n "$LINE" ]; then
 			CONTTXT=TRUE
 			cat >> ./$OutputFile << EOF
-<!-- Text line $j --><tr><td><span>
+<!-- Text $j -->
+<tr><td><span>
 $LINE<br />
 EOF
 		fi
@@ -307,7 +307,7 @@ EOF
 			cat >> ./$OutputFile << EOF
 </td>
 <!-- Audio file, time in secs, page ID, line No. -->
-<td class="button"><img src="../../common/play.png" onclick="playAudio($SOUND, '$TIME', $PAGENO, '$j' )"></img></td>
+<td class="button"><img src="../../common/play.png" onclick="playAudio($SOUND, '$TIME', $PAGENO, '$j' )"></td>
 </tr>
 EOF
 		fi
