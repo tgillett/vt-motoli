@@ -1,0 +1,191 @@
+
+# This is the title of the story
+#StoryName#	The Lonely Cat
+
+# This is the layout of the story
+#Format#	side
+
+# This is the total number of story pages not including the title page
+#MaxPages#	12
+
+# This is the maximum number of lines on any page
+#MaxLines#	10
+
+# This is the maximum number of continuation lines
+#MaxCont# 5
+
+# This is the picture scaling %
+#ScaleSide# 40
+#ScaleTop#  60
+
+# This is the pause timing
+#Pause# 300
+
+
+####################################
+#Following are the lines of text for each page
+
+<Identifier>		<-- Start of line -------------------- End of line -->
+
+##Title Page
+#Page0Line1#		The Lonely Cat
+#Page0Time1#		1.5
+#Page0Lang1#		en
+
+#Page0Line2#		ឆ្មារកំព្រារ 
+#Page0Time2#		1.5
+#Page0Lang2#		kh
+
+#Page0Text3#		Writer: Chris Gleisner, Rotana Seang
+#Page0Text4#		Illustration: Chris Gleisner
+#Page0Text5#		© Chris Gleisner, Rotana Seang 2016
+
+
+##Page 1
+#Page1Line1#    The lonely cat sat by the river all day.
+#Page1Time1#		3.0
+#Page1Lang1#		en
+
+#Page1Line2#    មានឆ្មារកំព្រារមួយក្បាលអង្គុយនៅមាត់ទន្លេរពេញមួយថ្ងៃ។
+#Page1Time2#		5.5
+#Page1Lang2#		kh
+
+
+##Page 2
+#Page2Line1#    One day a cow came and asked why he was looking so sad.
+#Page2Time1#		3.5
+#Page2Lang1#		en
+
+#Page2Line2-0#  ថ្ងៃមួយមានគោមួយក្បាលបានមកសួរឆ្មារហេតុ
+#Page2Line2-1#  អ្វីបានជាវាមើលទៅមិនសប្បាយចិត្ត ។
+#Page2Time2#		8.7
+#Page2Lang2#		kh
+
+
+##Page 3
+#Page3Line1-0#  The cat said, | “I am sad because 
+#Page3Line1-1#  I want to cross the river but I can not swim.”
+#Page3Time1#		5.5
+#Page3Lang1#		en
+
+#Page3Line2-0#  ឆ្មារឆ្លើយតប ”ខ្ញំុមិនសប្បាយចិត្តពីព្រេាះខ្ញំ  
+#Page3Line2-1#  ចង់ឆ្លងទឹកទន្លេ  ប៉ុន្តែខ្ញំុមិនចេះែហលទឹក។"
+#Page3Time2#		9.2
+#Page3Lang2#		kh
+
+
+##Page 4
+#Page4Line1-0#  The cow said, | “I can help you. 
+#Page4Line1-1#  Climb on my back and we can cross the river together.”
+#Page4Time1#		5.5
+#Page4Lang1#		en
+
+#Page4Line2-0#  គោក៏ឆ្លើយតប ខ្ញំុអាចជួយអ្នកបាន។
+#Page4Line2-1#  ឡើងជិះលើខ្នងខ្ញំុមកយើងនឹងឆ្លងទន្លេទាំងអស់គ្នា។
+#Page4Time2#		9.0
+#Page4Lang2#		kh
+
+
+
+##Page 5
+#Page5Line1#	  The cat climbed onto the cow and they crossed the river together.
+#Page5Time1#		4.2
+#Page5Lang1#		en
+
+#Page5Line2#	  ឆ្មារឡើងលើខ្នងគោហើយពួកគេក៏ហែលឆ្លងទឹកទន្លេទាំងអស់គ្នា។
+#Page5Time2#		6.2
+#Page5Lang2#		kh
+
+
+##Page 6
+#Page6Line1#  	Across the river,| the grass was long and green.
+#Page6Time1#		3.2
+#Page6Lang1#		en
+
+#Page6Line2#  	នៅត្រើយម្ខាងនៃទន្លេមានវាលស្មៅវែងៗពណ័ខៀវខ្ចី។
+#Page6Time2#		6.2
+#Page6Lang2#		kh
+
+
+#Page6Line3#  	The cat and the cow played all day in the sun.
+#Page6Time3#		3.2
+#Page6Lang3#		en
+
+#Page6Line4#  	ឆ្មារនឹងគោលេងជាមួយគ្នាពេញមួយថ្ងៃក្រោមកំដៅព្រះអាទិត្យ។
+#Page6Time4#		6.4
+#Page6Lang4#		kh
+
+
+##Page 7
+#Page7Line1-0#  When the sun went down,| the cat climbed onto the cow
+#Page7Line1-1#  and they crossed the river together to go home.
+#Page7Time1#		5.8
+#Page7Lang1#		en
+
+#Page7Line2-0#  ពេលព្រះអាទិត្យរៀបលិចឆ្មារឡើងលើខ្នងគោហើយពួក
+#Page7Line2-1#  គេក៏ឆ្លងទឹកទន្លេត្រឡប់មកផ្ទះវិញទាំងអស់គ្នា។
+#Page7Time2#		9.5
+#Page7Lang2#		kh
+
+
+
+##Page 8
+#Page8Line1#    The cow and cat were so happy.
+#Page8Time1#		2.5
+#Page8Lang1#		en
+
+#Page8Line2#    គោនិងឆ្មារសប្បាយរីករាយណាស់។
+#Page8Time2#		3.0
+#Page8Lang2#		kh
+
+
+##Page 9
+#Page9Line1#	  The cat thanked the cow for his help.
+#Page9Time1#		2.5
+#Page9Lang1#		en
+
+#Page9Line2#	  ឆ្មារនិយាយអគុណគោដែលបានជួយ។
+#Page9Time2#		4.0
+#Page9Lang2#		kh
+
+
+#Page 10
+#Page10Line1-0# The cow said he was happy to help.|
+#Page10Line1-1# That is what a friend does.
+#Page10Time1#		3.5
+#Page10Lang1#		en
+
+#Page10Line2-0# គោនិយាយទៅឆ្មារថា វាសប្បាចិត្តនឹងជួយ |
+#Page10Line2-1# មិត្តភ័ក្តិត្រូវតែចេះជួយគ្នា។
+#Page10Time2#		7.2
+#Page10Lang2#		kh
+
+
+##Page 11
+#Page11Line1-0#	The cat was never lonely again because he had a 
+#Page11Line1-1#	new friend to play with every day. 
+#Page11Time1#		4.8
+#Page11Lang1#		en
+
+#Page11Line2-0#	 ចាប់ពីពេលនេាះមកឆ្មារមិននៅកំព្រារទៀតទេ
+#Page11Line2-1#	 ព្រេាះវាមានមិត្តថ្មីលេងជាមួយរៀងរ៉ាល់ថ្ងៃ។ 
+#Page11Time2#		8.5
+#Page11Lang2#		kh
+
+
+##Page 12
+#Page12Pic#				motoli-credits
+#Page12Text1-0#		The Lonely Cat
+#Page12Text1-1#		Writers: Chris Gleisner, Rotana Seang
+#Page12Text1-2#		Illustration: Chris Gleisner
+#Page12Text1-3#		© Chris Gleisner 2016
+#Page12Text1-4#	 Software AJR, NJA, TLG
+
+#Page12Text2-0# 	This work is licensed under a Creative Commons Attribution
+#Page12Text2-1# 	(CC-BY 4.0) Version 4.0 International Licence
+#Page12Text2-2# 	Disclaimer: You are free to download, copy, translate 
+#Page12Text2-3# 	or adapt this story and use the illustrations as long as you  
+#Page12Text2-4# 	attribute or credit the original author/s and illustrator/s.
+
+
+
